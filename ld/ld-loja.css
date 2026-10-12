@@ -621,7 +621,6 @@ section.instagram { display: none !important; }
 /* item Calculadora no menu */
 .ld-menu-calc .main-menu__level-1__text { display: inline-flex; align-items: center; gap: 6px; }
 .ld-menu-calc svg { width: 16px; height: 16px; flex: none; }
-@media (min-width: 1024px) { .ld-menu-calc > a { color: #c9a6ff !important; } }
 /* ícones nos títulos do menu */
 .main-menu__level-1__text { display: inline-flex; align-items: center; gap: 6px; }
 .ld-micon { display: inline-flex; flex: none; }
@@ -632,4 +631,20 @@ section.instagram { display: none !important; }
   .main-menu__level-1__text, .main-menu__level-1__text * { white-space: nowrap; }
   .main-menu__level-1 > li > a { padding-left: 7px !important; padding-right: 7px !important; }
 }
-@media (min-width: 1024px) and (max-width: 1359px) { .ld-micon { display: none; } }
+
+/* menu no estilo vitrine (11/10/2026): ícone grande em cima, nome embaixo; Calculadora em destaque */
+.ld-micon { display: inline-flex; flex: none; }
+.ld-menu-calc .main-menu__level-1__text svg { display: none; }
+.ld-menu-badge { display: none; }
+@media (min-width: 1024px) {
+  .main-menu__level-1 { align-items: stretch; }
+  .main-menu__level-1 > li > a.ld-has-icon { display: flex !important; flex-direction: column; align-items: center; justify-content: center; gap: 6px; height: 100%; padding: 12px 14px 10px !important; position: relative; border-radius: 8px; }
+  .main-menu__level-1 > li > a.ld-has-icon .ld-micon svg { width: 28px; height: 28px; stroke-width: 1.7; }
+  .main-menu__level-1 > li > a.ld-has-icon::after { bottom: 3px !important; }
+  .ld-menu-badge { display: block; position: absolute; left: 50%; bottom: -9px; transform: translateX(-50%) rotate(-3deg); background: #fff; color: var(--ld-purple); font-family: var(--ld-head); font-style: italic; font-weight: 800; font-size: .72rem; letter-spacing: .06em; padding: 1px 8px; border-radius: 4px; box-shadow: 0 2px 6px rgba(0,0,0,.3); line-height: 1.4; }
+}
+@media (max-width: 1023px) {
+  .main-menu__level-1 > li > a.ld-has-icon { display: flex !important; align-items: center; gap: 12px; }
+  .ld-micon svg { width: 22px; height: 22px; color: var(--ld-purple); }
+}
+@media (min-width: 1024px) and (max-width: 1199px) { .main-menu__level-1 > li > a.ld-has-icon { padding-left: 8px !important; padding-right: 8px !important; } }

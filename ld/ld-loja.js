@@ -228,10 +228,9 @@
       var slug = (a.getAttribute('href') || '').replace(/^https?:\/\/[^/]+/, '').split('/')[1] || '';
       var paths = MENU_ICONS[slug]; if (!paths) return;
       a.dataset.ldIcon = 1;
-      var t = $('.main-menu__level-1__text', a) || a;
       var ic = d.createElement('span'); ic.className = 'ld-micon'; ic.setAttribute('aria-hidden', 'true');
       ic.innerHTML = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">' + paths + '</svg>';
-      t.insertBefore(ic, t.firstChild);
+      a.insertBefore(ic, a.firstChild); a.classList.add('ld-has-icon');
     });
   }
 
@@ -239,7 +238,7 @@
   function menuCalc() {
     var ul = $('.main-menu__level-1'); if (!ul || $('.ld-menu-calc', ul)) return;
     var li = d.createElement('li'); li.className = 'main-menu__level-1__item ld-menu-calc';
-    li.innerHTML = '<a class="main-menu__level-1__link" href="' + CFG.calculadoraUrl + '"><span class="main-menu__level-1__text">' + ICON.flask + 'Calculadora</span></a>';
+    li.innerHTML = '<a class="main-menu__level-1__link ld-has-icon" href="' + CFG.calculadoraUrl + '"><span class="ld-micon" aria-hidden="true">' + ICON.flask + '</span><span class="main-menu__level-1__text">Calculadora</span></a>';
     ul.appendChild(li);
   }
 
