@@ -589,7 +589,7 @@ h1, h2, .showcase__title, .section-title, .catalog__title, .product-details__nam
 
 /* sem "pulo" de layout: o CSS chega antes do JS, então já reserva o lugar da faixa de busca e das vantagens */
 @media (max-width: 767px) {
-  html.page--home:not(.ld-top-ok) .banner--home__container { border-top: 114px solid var(--ld-ink); }
+  html.page--home:not(.ld-top-ok) .banner--home__container { margin-top: 114px !important; box-shadow: 0 -114px 0 var(--ld-ink); } /* margem (nao borda): a caixa do banner ja nasce na posicao final */
   html.page--home:not(.ld-top-ok) .banner--home { margin-top: 0 !important; }
   html.page--home:not(.ld-vant-ok) section.features { visibility: hidden; height: 134px; overflow: hidden; margin: 14px 0 !important; }
 }
