@@ -1,0 +1,2557 @@
+{
+ "produtos": [
+  {
+   "id": 537,
+   "nome": "EXTREME Lava Autos Neutro Automotivo",
+   "marca": "Autoamerica",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/autoamerica/shampoo-extreme-autoamerica-500ml",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/shampoo_extreme_autoamerica_500ml_537_1_6322755f4fe8851047a6eba533633c70.jpg",
+   "usos": [
+    {
+     "uso": "Sujeira leve",
+     "min": 300,
+     "max": 300,
+     "trecho": "A diluição se ajusta ao nível de sujeira: 1:300 para sujeira leve, 1:150 para média e 1:100 para pesada."
+    },
+    {
+     "uso": "Sujeira média",
+     "min": 150,
+     "max": 150,
+     "trecho": "A diluição se ajusta ao nível de sujeira: 1:300 para sujeira leve, 1:150 para média e 1:100 para pesada."
+    },
+    {
+     "uso": "Sujeira pesada",
+     "min": 100,
+     "max": 100,
+     "trecho": "A diluição se ajusta ao nível de sujeira: 1:300 para sujeira leve, 1:150 para média e 1:100 para pesada."
+    }
+   ],
+   "pronto_uso": false
+  },
+  {
+   "id": 539,
+   "nome": "PRE WASH Pré Lavagem",
+   "marca": "Autoamerica",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/autoamerica/shampoo-pre-wash-500ml",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/shampoo_pre_wash_500ml_539_1_d2b4c1bd486ed84b2bc1e40633552e28.jpg",
+   "usos": [
+    {
+     "uso": "Sujeira leve",
+     "min": 100,
+     "max": 100,
+     "trecho": "Leve: 1:100 (1 ml para 100 ml de água)"
+    },
+    {
+     "uso": "Sujeira média",
+     "min": 50,
+     "max": 50,
+     "trecho": "Média: 1:50 (1 ml para 50 ml de água)"
+    },
+    {
+     "uso": "Sujeira pesada",
+     "min": 10,
+     "max": 10,
+     "trecho": "Pesada: 1:10 (1 ml para 10 ml de água)"
+    }
+   ],
+   "pronto_uso": false
+  },
+  {
+   "id": 1027,
+   "nome": "Desengraxante Alcalino 1/40 5L",
+   "marca": "Bugatti",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/bugatti/desengraxante-alcalino-140-5l-bugatti",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/desengraxante_alcalino_1_40_5l_bugatti_1027_1_f301733b1dae7f1e098a8020e1a4f196.png",
+   "usos": [
+    {
+     "uso": "Uso geral",
+     "min": 40,
+     "max": 40,
+     "trecho": "Dilua o produto em água conforme a proporção do rótulo (até 1/40), usando uma diluição mais fraca para sujeira leve."
+    }
+   ],
+   "pronto_uso": false
+  },
+  {
+   "id": 1025,
+   "nome": "Desincrustante Ácido 1/40",
+   "marca": "Bugatti",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/bugatti/desincrustante-acido-140-5l-bugatti",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/desincrustante_acido_1_40_5l_bugatti_1025_1_9d10772d60a30647dfd7589d3b5741b7.png",
+   "usos": [
+    {
+     "uso": "Uso geral",
+     "min": 40,
+     "max": 40,
+     "trecho": "O nome traz a proporção de referência: até 1 parte de produto para 40 de água."
+    }
+   ],
+   "pronto_uso": false
+  },
+  {
+   "id": 1155,
+   "nome": "Detergente Automotivo 1/40 c/ Cera de Carnaúba 5L",
+   "marca": "Bugatti",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/bugatti/shampoo-lava-autos-140-5l-bugatti",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/shampoo_lava_autos_1_40_5l_bugatti_1155_1_e431089ba6875bd4d483a28f6259a59e.png",
+   "usos": [
+    {
+     "uso": "Lavagem da carroceria",
+     "min": 40,
+     "max": 40,
+     "trecho": "Dilua o produto em água na proporção 1/40 indicada no rótulo."
+    }
+   ],
+   "pronto_uso": false
+  },
+  {
+   "id": 1069,
+   "nome": "PH7 Shampoo Automotivo Neutro 1L",
+   "marca": "Dettagli",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/dettagli/ph7-1l-shampoo-automotivo-dettagli",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/ph7_1l_shampoo_automotivo_dettagli_1069_1_2bbbb290b50b63564f25b2acb6d5ab65.png",
+   "usos": [
+    {
+     "uso": "Balde ou aspersão",
+     "min": 100,
+     "max": 400,
+     "trecho": "Balde ou aspersão: de 1:100 a 1:400, conforme a sujeira."
+    }
+   ],
+   "pronto_uso": false
+  },
+  {
+   "id": 1579,
+   "nome": "D-CLEAN - Limpador 4x1",
+   "marca": "Dub Boyz",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/dub-boyz/d-clean-limpador-4x1-5l-dub-boyz",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/d_clean_limpador_4x1_5l_dub_boyz_1579_1_63b5b17cb9fb270bc67b7a10a4387c95.jpg",
+   "usos": [
+    {
+     "uso": "Uso geral (referência)",
+     "min": 60,
+     "max": 60,
+     "trecho": "O catálogo da Dub Boyz traz 1:60 como diluição de referência."
+    }
+   ],
+   "pronto_uso": false
+  },
+  {
+   "id": 967,
+   "nome": "D-CLEAN Limpador 4x1",
+   "marca": "Dub Boyz",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/dub-boyz/d-clean-limpador-4x1-dub-boyz",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/d_clean_limpador_4x1_dub_boyz_967_1_6d4bf0f67813e491090ad6f197f5fb6b.png",
+   "usos": [
+    {
+     "uso": "Uso geral (referência)",
+     "min": 60,
+     "max": 60,
+     "trecho": "O catálogo da Dub Boyz traz 1:60 como diluição de referência."
+    }
+   ],
+   "pronto_uso": false
+  },
+  {
+   "id": 1575,
+   "nome": "D-MOL - Lava Auto Desincrustante",
+   "marca": "Dub Boyz",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/dub-boyz/d-mol-lava-auto-desincrustante-500ml-dub-boyz",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/d_mol_lava_auto_desincrustante_500ml_dub_boyz_1575_1_2dfd5012b8f4268dbb459c60139205a7.jpg",
+   "usos": [
+    {
+     "uso": "Uso geral",
+     "min": 100,
+     "max": 100,
+     "trecho": "Não agride metais, plásticos nem borrachas e é concentrada, com diluição até 1:100."
+    }
+   ],
+   "pronto_uso": false
+  },
+  {
+   "id": 445,
+   "nome": "D-OFF Limpeza Pesada Alcalino",
+   "marca": "Dub Boyz",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/dub-boyz/d-off-limpeza-pesada-alcalino-dub-boyz",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/d_off_limpeza_pesada_alcalino_dub_boyz_445_1_82feccc187294c138e5bd1946bb47c8f.png",
+   "usos": [
+    {
+     "uso": "Uso geral",
+     "min": 100,
+     "max": 100,
+     "trecho": "Ajuste a proporção à sujeira, até 1:100."
+    }
+   ],
+   "pronto_uso": false
+  },
+  {
+   "id": 183,
+   "nome": "POWER PIG Limpador Multiuso Alcalino",
+   "marca": "Dub Boyz",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/dub-boyz/power-pig-limpador-multiuso-alcalino-dub-boyz",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/power_pig_limpador_multiuso_alcalino_dub_boyz_183_1_769c90d1f0a37f504a996910cefedd45.png",
+   "usos": [
+    {
+     "uso": "Limpeza leve",
+     "min": 50,
+     "max": 50,
+     "trecho": "Limpeza leve: 1:50"
+    },
+    {
+     "uso": "Limpeza média",
+     "min": 30,
+     "max": 30,
+     "trecho": "Limpeza média: 1:30"
+    },
+    {
+     "uso": "Limpeza pesada",
+     "min": 20,
+     "max": 20,
+     "trecho": "Limpeza pesada: 1:20"
+    }
+   ],
+   "pronto_uso": false
+  },
+  {
+   "id": 1289,
+   "nome": "SOFT OXXY Multilimpador Ácido Pronto Uso 500ml",
+   "marca": "Dub Boyz",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/dub-boyz/soft-oxxy-multilimpador-acido-pronto-uso-500ml-dub-boyz",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/soft_oxxy_multilimpador_cido_pronto_uso_500ml_1_20251003143724_01c944763dd2.png",
+   "usos": [],
+   "pronto_uso": true
+  },
+  {
+   "id": 427,
+   "nome": "SOFT PIG Limpador multiuso pronto uso 500ml",
+   "marca": "Dub Boyz",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/dub-boyz/limpador-multiuso-pronto-uso-soft-pig",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/limpador_multiuso_pronto_uso_soft_pig_427_1_7155522465e04bec64e40ca5f3b91310.png",
+   "usos": [],
+   "pronto_uso": true
+  },
+  {
+   "id": 435,
+   "nome": "TURTLE SHELL Condicionador de plásticos",
+   "marca": "Dub Boyz",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/dub-boyz/condicionador-de-plasticos-turtle-shell",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/condicionador_de_plasticos_turtle_shell_435_1_e46fd61ff447a4ac1b51e6538f2b9a9e.png",
+   "usos": [
+    {
+     "uso": "Manutenção / pulverizador",
+     "min": 3,
+     "max": 3,
+     "trecho": "Diluído até 1:3, serve para a manutenção e para aplicar com pulverizador em áreas maiores."
+    }
+   ],
+   "pronto_uso": false
+  },
+  {
+   "id": 1159,
+   "nome": "ACID FOAM Shampoo Ácido 500ml",
+   "marca": "Jaça",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/jaca/acid-foam-lava-autos-500ml-jaca",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/acid_foam_lava_autos_500ml_jaca_1159_1_2e8f6e02fea453b7d1e76ab3420ad93d.png",
+   "usos": [
+    {
+     "uso": "Uso geral",
+     "min": 60,
+     "max": 60,
+     "trecho": "Dilui até 1:60, tem alta espumação e boa lubrificação, e pode ser aplicado com snow foam, balde ou borrifador."
+    }
+   ],
+   "pronto_uso": false
+  },
+  {
+   "id": 543,
+   "nome": "BUBBLE FOAM Lava Autos Concentrado",
+   "marca": "Jaça",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/jaca/bubble-foam",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/bubble_foam_543_1_c5559b355a6772eedbc0da6826056590.png",
+   "usos": [
+    {
+     "uso": "Snow foam",
+     "min": 5,
+     "max": 50,
+     "trecho": "Snow foam: 1:5 a 1:50"
+    },
+    {
+     "uso": "Balde",
+     "min": 400,
+     "max": 400,
+     "trecho": "Balde: até 1:400, conforme o estado do veículo"
+    }
+   ],
+   "pronto_uso": false
+  },
+  {
+   "id": 573,
+   "nome": "COMPLEX Removedor de Chuva Ácida",
+   "marca": "Jaça",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/jaca/complex-removedor-de-chuva-acida-jaca",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/complex_removedor_de_chuva_acida_jaca_573_1_3eba10ea2ae4a0f7aadcde0623187c38.png",
+   "usos": [],
+   "pronto_uso": true
+  },
+  {
+   "id": 551,
+   "nome": "GRIME CLEANER Limpador de Couro Concentrado 500ml",
+   "marca": "Jaça",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/jaca/grime-cleaner-500ml-limpador-de-couro-concentrado-jaca",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/grime_cleaner_500ml_limpador_de_couro_concentrado_jaca_551_1_cf2d1a6b7796fc9be5fc4e797b2cf464.png",
+   "usos": [
+    {
+     "uso": "Sujeira difícil",
+     "min": 5,
+     "max": 5,
+     "trecho": "Quanto mais pesada a sujeira, mais concentrada a solução: 1:5 para sujeira difícil e 1:10 para manutenção."
+    },
+    {
+     "uso": "Manutenção",
+     "min": 10,
+     "max": 10,
+     "trecho": "Quanto mais pesada a sujeira, mais concentrada a solução: 1:5 para sujeira difícil e 1:10 para manutenção."
+    }
+   ],
+   "pronto_uso": false
+  },
+  {
+   "id": 575,
+   "nome": "HIDROFAST HB Selante Sintético Pronto Uso 500ml",
+   "marca": "Jaça",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/jaca/hidrofast-hb-500ml-selante-sintetico-pronto-uso-jaca",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/hidrofast_hb_500ml_selante_sintetico_pronto_uso_jaca_575_1_bec84d757a13fb066d53abf8c4488752.png",
+   "usos": [],
+   "pronto_uso": true
+  },
+  {
+   "id": 569,
+   "nome": "HIDROFAST Selante Sintético 500ml",
+   "marca": "Jaça",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/jaca/hidrofast-500ml-selante-sintetico-jaca",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/hidrofast_500ml_selante_sintetico_jaca_569_1_b228b8ca5a5cb8860fd5c3c449deaf7f.png",
+   "usos": [
+    {
+     "uso": "Proteção até 6 meses",
+     "min": 10,
+     "max": 10,
+     "trecho": "A durabilidade é definida pela diluição: até 6 meses em 1:10, até 5 meses em 1:15 e até 4 meses em 1:20."
+    },
+    {
+     "uso": "Proteção até 5 meses",
+     "min": 15,
+     "max": 15,
+     "trecho": "A durabilidade é definida pela diluição: até 6 meses em 1:10, até 5 meses em 1:15 e até 4 meses em 1:20."
+    },
+    {
+     "uso": "Proteção até 4 meses",
+     "min": 20,
+     "max": 20,
+     "trecho": "A durabilidade é definida pela diluição: até 6 meses em 1:10, até 5 meses em 1:15 e até 4 meses em 1:20."
+    }
+   ],
+   "pronto_uso": false
+  },
+  {
+   "id": 1189,
+   "nome": "HIDROWASH Lava Autos Cerâmico",
+   "marca": "Jaça",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/jaca/hidrowash-lava-autos-ceramico-jaca",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/hidrowash_lava_autos_cermico_jaa_1_20250904092353_296b70b1a8bd.png",
+   "usos": [
+    {
+     "uso": "Balde",
+     "min": 200,
+     "max": 200,
+     "trecho": "Balde: 1:200"
+    },
+    {
+     "uso": "Borrifador",
+     "min": 30,
+     "max": 30,
+     "trecho": "Borrifador: 1:30"
+    },
+    {
+     "uso": "Snow foam",
+     "min": 15,
+     "max": 15,
+     "trecho": "Snow foam: 1:15"
+    }
+   ],
+   "pronto_uso": false
+  },
+  {
+   "id": 1161,
+   "nome": "METMOL Shampoo Automotivo de Pré-Lavagem",
+   "marca": "Jaça",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/jaca/metmol-shampoo-automotivo-de-pre-lavagem-jaca",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/metmol_shampoo_automotivo_de_pre_lavagem_jaca_1161_1_1c7ecce17dbadd4c8489393840ddeb0b.png",
+   "usos": [
+    {
+     "uso": "Sujeira leve (máximo rendimento)",
+     "min": 60,
+     "max": 60,
+     "trecho": "mais diluído, até 1:60, para sujeira leve e máximo rendimento."
+    }
+   ],
+   "pronto_uso": false
+  },
+  {
+   "id": 557,
+   "nome": "REMOGAN Removedor Biodegradável de Piche e Cola",
+   "marca": "Jaça",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/jaca/remogan-jaca",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/remogan_jaca_557_1_546096665eaf3682520084c2dd9870a0.png",
+   "usos": [],
+   "pronto_uso": true
+  },
+  {
+   "id": 553,
+   "nome": "SNAKE LEATHER Hidratante de Couro 500ml",
+   "marca": "Jaça",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/jaca/snake-leather-500ml-hidratante-de-couro-jaca",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/snake_leather_500ml_hidratante_de_couro_jaca_553_1_d4b47c37eeda90b727b3fa8862f84e87.png",
+   "usos": [],
+   "pronto_uso": true
+  },
+  {
+   "id": 563,
+   "nome": "STORM CLEAN Desengraxante",
+   "marca": "Jaça",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/jaca/storm-clean-500ml-jaca",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/storm_clean_500ml_jaca_563_1_8068f0c5fe5441c309d7dbb52903f926.png",
+   "usos": [
+    {
+     "uso": "Uso geral",
+     "min": 5,
+     "max": 60,
+     "trecho": "É alcalino e de alta concentração: dilui de 1:5 a 1:60, conforme a sujeira e a superfície."
+    }
+   ],
+   "pronto_uso": false
+  },
+  {
+   "id": 559,
+   "nome": "TRIPLO X APC Limpador Multiuso 500ml",
+   "marca": "Jaça",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/jaca/triplo-x-500ml-jaca",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/triplo_x_500ml_jaca_559_1_37ec9172fd5ce52c213924121af0ad3c.png",
+   "usos": [
+    {
+     "uso": "Uso geral",
+     "min": 10,
+     "max": 10,
+     "trecho": "Dilui até 1:10 e tem fragrância fixadora que ajuda a eliminar maus odores."
+    }
+   ],
+   "pronto_uso": false
+  },
+  {
+   "id": 561,
+   "nome": "TRIPLO X PRO APC Limpador Multiuso",
+   "marca": "Jaça",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/jaca/triplo-x-pro-1-5l-jaca",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/triplo_x_pro_apc_limpador_multiuso_jaca_561_1_15dcc18aafb114b6068d2f65946d8e2e.png",
+   "usos": [
+    {
+     "uso": "Sujeira incrustada",
+     "min": 10,
+     "max": 10,
+     "trecho": "Sujeira incrustada: 1:10"
+    },
+    {
+     "uso": "Manutenção",
+     "min": 60,
+     "max": 60,
+     "trecho": "Manutenção: até 1:60"
+    }
+   ],
+   "pronto_uso": false
+  },
+  {
+   "id": 565,
+   "nome": "TYREX Limpa Pneus e Borrachas 500ml",
+   "marca": "Jaça",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/jaca/tyrex-500ml-jaca",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/tyrex_500ml_jaca_565_1_275bd7c97fe3b70dc59d964ad99c56fc.png",
+   "usos": [],
+   "pronto_uso": true
+  },
+  {
+   "id": 221,
+   "nome": "APC Limpador Multiuso Concentrado LL1 - LINCOLN 1L",
+   "marca": "Lincoln",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/lincoln/lincoln-ll1-apc-limpador-multiuso-concentrado-1l",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/lincoln_ll1_apc_limpador_multiuso_concentrado_1l_221_1_fabb288d183814ba48d8ed9c51360770.jpg",
+   "usos": [
+    {
+     "uso": "Superfície incrustada",
+     "min": 1,
+     "max": 1,
+     "trecho": "Superfície incrustada: 1:1, ou puro em pontos localizados."
+    },
+    {
+     "uso": "Sujeira pesada",
+     "min": 10,
+     "max": 10,
+     "trecho": "Sujeira pesada: 1:10."
+    },
+    {
+     "uso": "Manutenção, couros e painéis",
+     "min": 20,
+     "max": 20,
+     "trecho": "Manutenção, couros e painéis: 1:20."
+    },
+    {
+     "uso": "Estofados, carpetes e limpeza leve",
+     "min": 50,
+     "max": 50,
+     "trecho": "Estofados, carpetes, tecidos e limpeza leve: até 1:50."
+    }
+   ],
+   "pronto_uso": false
+  },
+  {
+   "id": 225,
+   "nome": "Shampoo Concentrado Detail Wash LS1 1L",
+   "marca": "Lincoln",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/lincoln/shampoo-detail-wash-ls1-concentrado-1l-lincoln",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/shampoo_detail_wash_ls1_concentrado_1l_lincoln_225_1_3bc3da9d602f76303dd9a827acf69c38.jpg",
+   "usos": [
+    {
+     "uso": "Balde",
+     "min": 400,
+     "max": 400,
+     "trecho": "Diluição manual: Até 1:400"
+    },
+    {
+     "uso": "Canhão de espuma",
+     "min": 15,
+     "max": 20,
+     "trecho": "Diluição canhão de espuma: 1:15 a 1:20"
+    }
+   ],
+   "pronto_uso": false
+  },
+  {
+   "id": 605,
+   "nome": "APC Orange Limpador de Interiores de Alta Performance",
+   "marca": "NOBRECAR",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/nobre-car/apc-orange-nobre-car",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/apc_orange_nobre_car_605_1_24c647be8afce5f0d382cb32439f0e5f.png",
+   "usos": [
+    {
+     "uso": "Limpeza muito pesada (galão 5 L)",
+     "min": 5,
+     "max": 5,
+     "trecho": "Limpeza muito pesada: 1:5"
+    },
+    {
+     "uso": "Limpeza pesada (galão 5 L)",
+     "min": 10,
+     "max": 10,
+     "trecho": "Pesada: 1:10"
+    },
+    {
+     "uso": "Limpeza moderada (galão 5 L)",
+     "min": 30,
+     "max": 30,
+     "trecho": "Moderada: 1:30"
+    },
+    {
+     "uso": "Leve e manutenção (galão 5 L)",
+     "min": 50,
+     "max": 50,
+     "trecho": "Leve e manutenção: 1:50"
+    }
+   ],
+   "pronto_uso": false
+  },
+  {
+   "id": 581,
+   "nome": "AROMA NOBRE Aromatizantes de Ambiente",
+   "marca": "NOBRECAR",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/nobre-car/aroma-nobre-100ml-nobre-car",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/aroma_nobre_aromatizantes_de_ambiente_nobrecar_1_20250825131259_6676425a440d.png",
+   "usos": [],
+   "pronto_uso": true
+  },
+  {
+   "id": 1171,
+   "nome": "AROMAS Aromatizante de Ambiente 250ml",
+   "marca": "NOBRECAR",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/nobre-car/aromatizantes-de-ambiente-250ml-nobrecar",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/aromatizantes_de_ambiente_250ml_nobrecar_1_20250825110219_ccc8c8cd0783.png",
+   "usos": [],
+   "pronto_uso": true
+  },
+  {
+   "id": 579,
+   "nome": "AROMAS NOBRECAR Aromatizante de Ambiente 250ml",
+   "marca": "NOBRECAR",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/nobre-car/aroma-250ml-nobre-car",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/aroma_250ml_nobre_car_579_1_6325d894719dbc954623e14dcab52409.png",
+   "usos": [],
+   "pronto_uso": true
+  },
+  {
+   "id": 587,
+   "nome": "CAMALEÃO Shampoo Automotivo Super Concentrado",
+   "marca": "NOBRECAR",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/nobre-car/camaleao-nobre-car",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/camaleo_shampoo_automotivo_super_concentrado_nobre_1_20250825114155_6e32e597fde5.png",
+   "usos": [
+    {
+     "uso": "Máquina de espuma: espuma leve",
+     "min": 400,
+     "max": 400,
+     "trecho": "Máquina de espuma, espuma leve: 1:400"
+    },
+    {
+     "uso": "Máquina de espuma: espuma densa",
+     "min": 200,
+     "max": 200,
+     "trecho": "Máquina de espuma, espuma densa: 1:200"
+    },
+    {
+     "uso": "Lavagem manual (balde)",
+     "min": 100,
+     "max": 100,
+     "trecho": "Lavagem manual (balde): 1:100"
+    }
+   ],
+   "pronto_uso": false
+  },
+  {
+   "id": 585,
+   "nome": "CAR WASH Shampoo Automotivo Concentrado",
+   "marca": "NOBRECAR",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/nobre-car/car-wash-lava-auto-nobre-car",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/car_wash_lava_auto_nobre_car_585_1_08c9386e3024d5a6542752034b5cf8a4.png",
+   "usos": [
+    {
+     "uso": "Lavagem (lataria e vidros)",
+     "min": 100,
+     "max": 100,
+     "trecho": "O Shampoo Automotivo Car Wash Nobrecar é um lava auto concentrado para lataria e vidros, em diluição de até 1:100."
+    }
+   ],
+   "pronto_uso": false
+  },
+  {
+   "id": 609,
+   "nome": "CRISTAL FLEX Removedor de chuva ácida",
+   "marca": "NOBRECAR",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/nobre-car/cristal-flex-1l-nobre-car",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/cristal_flex_1l_nobre_car_609_1_17562ca597d855be67ed5f59d3a672f1.png",
+   "usos": [],
+   "pronto_uso": true
+  },
+  {
+   "id": 595,
+   "nome": "ECO CLEANER Lava Auto e Desengraxante de pH Neutro",
+   "marca": "NOBRECAR",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/nobre-car/eco-cleaner-1l-nobre-car",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/eco_cleaner_1l_nobre_car_595_1_2d07b4f049386c4959aecad8838f47c5.png",
+   "usos": [
+    {
+     "uso": "Manutenção",
+     "min": 100,
+     "max": 100,
+     "trecho": "Manutenção: 1:100"
+    },
+    {
+     "uso": "Limpeza leve",
+     "min": 40,
+     "max": 40,
+     "trecho": "Limpeza leve: 1:40"
+    },
+    {
+     "uso": "Limpeza média",
+     "min": 20,
+     "max": 20,
+     "trecho": "Limpeza média: 1:20"
+    },
+    {
+     "uso": "Limpeza pesada / pré-lavagem",
+     "min": 5,
+     "max": 5,
+     "trecho": "Limpeza pesada / pré-lavagem: 1:5"
+    }
+   ],
+   "pronto_uso": false
+  },
+  {
+   "id": 607,
+   "nome": "FEROZ Pré-lavagem de Alta Performance",
+   "marca": "NOBRECAR",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/nobre-car/feroz-nobre-car",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/feroz_nobre_car_607_1_a5d9bc4e0b9b4ba67a36f0cc5b135f17.png",
+   "usos": [
+    {
+     "uso": "Lavagem sem toque, motor e chassi",
+     "min": 10,
+     "max": 10,
+     "trecho": "Lavagem sem toque, motor e chassi: 1:10"
+    },
+    {
+     "uso": "Pré-lavagem",
+     "min": 20,
+     "max": 75,
+     "trecho": "Pré-lavagem: 1:20 a 1:75"
+    },
+    {
+     "uso": "Lavagem",
+     "min": 40,
+     "max": 40,
+     "trecho": "Lavagem: 1:40"
+    },
+    {
+     "uso": "APC (tecidos)",
+     "min": 20,
+     "max": 75,
+     "trecho": "APC (tecidos): 1:20 a 1:75"
+    },
+    {
+     "uso": "Motos (a partir de)",
+     "min": 20,
+     "max": 20,
+     "trecho": "Motos: a partir de 1:20"
+    }
+   ],
+   "pronto_uso": false
+  },
+  {
+   "id": 613,
+   "nome": "IMPER ACQUA Impermeabilizante de Tecidos",
+   "marca": "NOBRECAR",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/nobre-car/imper-acqua-1l-nobre-car",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/imper_acqua_1l_nobre_car_613_1_b73fe8c5e1c129f35a553e87f5b40a0e.png",
+   "usos": [],
+   "pronto_uso": true
+  },
+  {
+   "id": 601,
+   "nome": "IRON CAR Descontaminante Ferrososo",
+   "marca": "NOBRECAR",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/nobre-car/iron-car-500ml-nobre-car",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/iron_car_500ml_nobre_car_601_1_5eacfd64313e79af2fb81e56e24201b1.png",
+   "usos": [],
+   "pronto_uso": true
+  },
+  {
+   "id": 583,
+   "nome": "MOTOR PROTECTION Proteção de Motores 1L",
+   "marca": "NOBRECAR",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/nobre-car/motor-protection-1l-nobre-car",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/motor_protection_1l_nobre_car_583_1_92ea18767e0c36f145f618b975d851de.png",
+   "usos": [],
+   "pronto_uso": true
+  },
+  {
+   "id": 615,
+   "nome": "NC ONE STEP Composto Polidor 1kg",
+   "marca": "NOBRECAR",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/nobre-car/nc-one-step-1kg-nobre-car",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/nc_one_step_1kg_nobre_car_615_1_854481d1c16a1103cfe43faced6f3c73.png",
+   "usos": [],
+   "pronto_uso": true
+  },
+  {
+   "id": 593,
+   "nome": "NC TECHNOLOGY Massa de Polir",
+   "marca": "NOBRECAR",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/nobre-car/nc-tehcnology-1kg-massa-de-polir-nobre-car",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/nc_tehcnology_1kg_massa_de_polir_nobre_car_593_1_8590c0453684ee9b814fa012274469b6.png",
+   "usos": [],
+   "pronto_uso": true
+  },
+  {
+   "id": 597,
+   "nome": "REMOX Removedor de Concreto 5L",
+   "marca": "NOBRECAR",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/nobre-car/remox-removedor-de-concreto-5l-nobre-car",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/remox_removedor_de_concreto_5l_nobre_car_597_1_aa64338e48afc2df6ef19588c461f7f0.png",
+   "usos": [
+    {
+     "uso": "Chassis e escapamentos",
+     "min": 2,
+     "max": 2,
+     "trecho": "Chassis e escapamentos: puro a 1:2"
+    },
+    {
+     "uso": "Remoção de concreto",
+     "min": 4,
+     "max": 50,
+     "trecho": "Remoção de concreto: 1:4 a 1:50"
+    }
+   ],
+   "pronto_uso": false
+  },
+  {
+   "id": 617,
+   "nome": "SM Condicionador para Pneus",
+   "marca": "NOBRECAR",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/nobre-car/sm-500ml-condicionador-para-pneus-nobre-car",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/sm_500ml_condicionador_para_pneus_nobre_car_617_1_98bfd5185dbaa0c6963a1736c8cc3c94.png",
+   "usos": [],
+   "pronto_uso": true
+  },
+  {
+   "id": 1551,
+   "nome": "SM Condicionador para Pneus - 500ml",
+   "marca": "NOBRECAR",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/nobre-car/sm-condicionador-para-pneus-500ml-nobrecar",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/sm_condicionador_para_pneus_500ml_nobrecar_1551_1_114107b356f00a053b61ff80da81e612.png",
+   "usos": [],
+   "pronto_uso": true
+  },
+  {
+   "id": 589,
+   "nome": "STAIN REMOVER Shampoo Removedor de manchas ácidas 1L NOBRE CAR",
+   "marca": "NOBRECAR",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/nobre-car/stain-remover-1l-nobre-car",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/stain_remover_1l_nobre_car_589_1_851e390ddbbbf844ff59e77ddcd932c9.png",
+   "usos": [
+    {
+     "uso": "Limpeza superficial",
+     "min": 10,
+     "max": 10,
+     "trecho": "Limpeza superficial: 1:10"
+    },
+    {
+     "uso": "Limpeza leve",
+     "min": 5,
+     "max": 5,
+     "trecho": "Limpeza leve: 1:5"
+    },
+    {
+     "uso": "Limpeza média",
+     "min": 2,
+     "max": 2,
+     "trecho": "Limpeza média: 1:2"
+    }
+   ],
+   "pronto_uso": false
+  },
+  {
+   "id": 591,
+   "nome": "SUPER PRETINHO Embelezador de Pneus 1L",
+   "marca": "NOBRECAR",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/nobre-car/super-pretinho-1l-nobre-car",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/super_pretinho_1l_nobre_car_591_1_a9a25bff806f51ed0822529391dfb0c2.png",
+   "usos": [
+    {
+     "uso": "Pneus: brilho moderado",
+     "min": 2,
+     "max": 2,
+     "trecho": "Você ajusta o acabamento: puro para super brilho ou diluído 1:2 em água para um brilho mais discreto."
+    },
+    {
+     "uso": "Caixas de roda",
+     "min": 5,
+     "max": 5,
+     "trecho": "Nas caixas de roda, dilua 1:5 e aplique com pulverizador."
+    }
+   ],
+   "pronto_uso": false
+  },
+  {
+   "id": 603,
+   "nome": "TIRA COLA Removedor natural de colas 500ml",
+   "marca": "NOBRECAR",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/nobre-car/tira-cola-500ml-nobre-car",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/tira_cola_500ml_nobre_car_603_1_3f3ddbe22543dbbde25a6f0e521d4fa4.png",
+   "usos": [],
+   "pronto_uso": true
+  },
+  {
+   "id": 611,
+   "nome": "VISIBLE GLASS Limpeza e Repelência de Água para Vidros",
+   "marca": "NOBRECAR",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/nobre-car/visible-glass-100ml-nobre-car",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/visible_glass_limpeza_e_repelencia_de_agua_para_vidros_nobrecar_611_1_5522ceff55e20a793749fcfc517aeced.png",
+   "usos": [
+    {
+     "uso": "Vidros / reservatório do esguicho",
+     "min": 10,
+     "max": 10,
+     "trecho": "Pode ser usado puro ou diluído até 1:10, à mão ou no reservatório do esguicho"
+    }
+   ],
+   "pronto_uso": false
+  },
+  {
+   "id": 599,
+   "nome": "X-9 Revelador de Hologramas 500ml",
+   "marca": "NOBRECAR",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/nobre-car/x-9-500ml-nobre-car",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/x_9_500ml_nobre_car_599_1_b370e2a03c8837787ceb8280671977fa.png",
+   "usos": [],
+   "pronto_uso": true
+  },
+  {
+   "id": 299,
+   "nome": "APC Interiores Multilimpador Pronto Uso 500ml",
+   "marca": "Protelim",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/protelim/apc-interiores-multilimpador-pronto-uso-500ml-protelim",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/apc_interiores_multilimpador_pronto_uso_500ml_protelim_299_1_e2268925e3b309b8bfc6bdd01210b55e.jpg",
+   "usos": [],
+   "pronto_uso": true
+  },
+  {
+   "id": 239,
+   "nome": "BAC PEROXY - Limpador De Alta Performance",
+   "marca": "Protelim",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/protelim/bac-peroxy-limpador-de-alta-performance-protelim",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/bac_peroxy_limpador_de_alta_performance_protelim_239_1_cbf2ceb785e759eab23669229c9781e4.jpg",
+   "usos": [
+    {
+     "uso": "Limpeza pesada",
+     "min": 10,
+     "max": 40,
+     "trecho": "Limpeza pesada: 1:10 (100 ml por litro de água), 1:20 (50 ml por litro) ou 1:40 (25 ml por litro)"
+    },
+    {
+     "uso": "Limpeza média",
+     "min": 40,
+     "max": 60,
+     "trecho": "Limpeza média: 1:40 a 1:60"
+    },
+    {
+     "uso": "Limpeza leve",
+     "min": 100,
+     "max": 200,
+     "trecho": "Limpeza leve: 1:100 a 1:200"
+    }
+   ],
+   "pronto_uso": false
+  },
+  {
+   "id": 295,
+   "nome": "BLACK X - Selante para Pneus",
+   "marca": "Protelim",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/protelim/black-x-selanyte-para-pneus-protelim",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/black_x_selanyte_para_pneus_protelim_295_1_4f82bea98086ce14bc7d707ab2419e2e.jpg",
+   "usos": [],
+   "pronto_uso": true
+  },
+  {
+   "id": 253,
+   "nome": "Composto Polidor para Corte Power Cut Pro",
+   "marca": "Protelim",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/protelim/composto-polidor-para-corte-power-cut-pro-protelim-1kg",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/composto_polidor_para_corte_power_cut_pro_protel_1_20250902154019_12685aa74684.png",
+   "usos": [],
+   "pronto_uso": true
+  },
+  {
+   "id": 275,
+   "nome": "FAST REMOVE - Removedor de Cola, Piche, Caneta e Chiclete",
+   "marca": "Protelim",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/protelim/fast-remove-removedor-de-cola-piche-caneta-e-chiclete-protelim",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/fast_remove_removedor_de_cola_piche_caneta_e_chiclete_protelim_275_1_4d1e2284efe40f0f0e25fe0b0fd56326.jpg",
+   "usos": [],
+   "pronto_uso": true
+  },
+  {
+   "id": 257,
+   "nome": "Fusion Coat Coating Em Pasta",
+   "marca": "Protelim",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/protelim/fusion-coating-em-pasta-protelim-300g",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/fusion_coating_em_pasta_protelim_1_20250902152616_f51838f6ce3a.png",
+   "usos": [],
+   "pronto_uso": true
+  },
+  {
+   "id": 1193,
+   "nome": "HYDRO CERAMIC Finalizador Pós-Lavagem CONCENTRADO 500ml",
+   "marca": "Protelim",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/protelim/hydro-ceramic-concentrado-finalizador-pos-lavagem-protelim",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/hydro_ceramic_concentrado_finalizador_ps_lavagem_1_20250904130140_5075b3d19aa3.png",
+   "usos": [
+    {
+     "uso": "Proteção até 10 meses",
+     "min": 20,
+     "max": 20,
+     "trecho": "A durabilidade depende da diluição: até 10 meses em 1:20, até 5 meses em 1:40 e até 4 meses em 1:60, segundo a Protelim."
+    },
+    {
+     "uso": "Proteção até 5 meses",
+     "min": 40,
+     "max": 40,
+     "trecho": "A durabilidade depende da diluição: até 10 meses em 1:20, até 5 meses em 1:40 e até 4 meses em 1:60, segundo a Protelim."
+    },
+    {
+     "uso": "Proteção até 4 meses",
+     "min": 60,
+     "max": 60,
+     "trecho": "A durabilidade depende da diluição: até 10 meses em 1:20, até 5 meses em 1:40 e até 4 meses em 1:60, segundo a Protelim."
+    }
+   ],
+   "pronto_uso": false
+  },
+  {
+   "id": 965,
+   "nome": "HYDRO CERAMIC PRONTO USO Finalizador Pós-Lavagem 500ml",
+   "marca": "Protelim",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/protelim/hydro-ceramic-pronto-uso-finalizador-pos-lavagem-protelim",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/hydro_ceramic_pronto_uso_finalizador_pos_lavagem_protelim_965_1_b2a1d1ca25cdca865c43bd799b01172c.png",
+   "usos": [],
+   "pronto_uso": true
+  },
+  {
+   "id": 251,
+   "nome": "IPA - Revelador de Hologramas",
+   "marca": "Protelim",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/protelim/ipa-revelador-de-hologramas-protelim",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/ipa_revelador_de_hologramas_protelim_251_1_89e7e9edc9ef1bbb9b4b37daaa1e5bc9.jpg",
+   "usos": [],
+   "pronto_uso": true
+  },
+  {
+   "id": 273,
+   "nome": "IRON OUT - Descontaminante Ferroso de Superfícies",
+   "marca": "Protelim",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/protelim/iron-out-descontaminante-ferroso-de-superficies-protelim-500ml",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/iron_out_descontaminante_ferroso_de_superficies_protelim_500ml_273_1_7849dd3f8ccb1b520f54911c781e2ffb.jpg",
+   "usos": [],
+   "pronto_uso": true
+  },
+  {
+   "id": 293,
+   "nome": "LEATHER - Hidratante de Couro - 500ml",
+   "marca": "Protelim",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/protelim/leather-hidratante-de-couro-500ml-protelim",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/leather_hidratante_de_couro_500ml_protelim_293_1_79e8bc4dde83ca0f09304c187c2b0b79.jpg",
+   "usos": [],
+   "pronto_uso": true
+  },
+  {
+   "id": 281,
+   "nome": "LEATHER CLEANER - Limpa Couro PH Neutro Alto Rendimento 500ml",
+   "marca": "Protelim",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/protelim/leather-cleaner-limpa-couro-ph-neutro-alto-rendimento-500ml-protelim",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/leather_cleaner_limpa_couro_ph_neutro_alto_rendimento_500ml_protelim_281_1_2fac30c3b1ad287683dc922dcca1a4d0.jpg",
+   "usos": [],
+   "pronto_uso": true
+  },
+  {
+   "id": 1185,
+   "nome": "MAGIC WASH Lava Auto 500ml",
+   "marca": "Protelim",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/protelim/magic-wash-lava-auto-500ml-protelim",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/magic_wash_lava_auto_500ml_protelim_1_20260427141641_7df3ed7b9ec2.jpg",
+   "usos": [
+    {
+     "uso": "Lavagem manual",
+     "min": 300,
+     "max": 300,
+     "trecho": "Rende até 1 parte para 300 de água na lavagem manual e funciona no snow foam."
+    }
+   ],
+   "pronto_uso": false
+  },
+  {
+   "id": 269,
+   "nome": "MULTI ECCO APC - Limpador Multiuso Automotivo 1:50",
+   "marca": "Protelim",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/protelim/multi-ecco-apc-protelim",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/multi_ecco_apc_limpador_multiuso_automotivo_1_50_protelim_269_1_61c3ae42351153b34e6e10a93bf4d245.jpg",
+   "usos": [
+    {
+     "uso": "Limpeza pesada",
+     "min": 10,
+     "max": 10,
+     "trecho": "Limpeza pesada: 1 L de produto para até 10 L de água (1:10)"
+    },
+    {
+     "uso": "Limpeza média",
+     "min": 20,
+     "max": 20,
+     "trecho": "Limpeza média: 1 L para até 20 L de água (1:20)"
+    },
+    {
+     "uso": "Limpeza leve",
+     "min": 50,
+     "max": 50,
+     "trecho": "Limpeza leve: 1 L para até 50 L de água (1:50)"
+    }
+   ],
+   "pronto_uso": false
+  },
+  {
+   "id": 1187,
+   "nome": "ONE PRO 4 EM 1 - Composto Polidor",
+   "marca": "Protelim",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/protelim/one-pro-4-em-1-composto-polidor-protelim",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/one_pro_4_em_1_composto_polidor_protelim_1_20250902153300_02f4c2b7b9a7.png",
+   "usos": [],
+   "pronto_uso": true
+  },
+  {
+   "id": 283,
+   "nome": "PLASTIC NEW - Renovador Plásticos Borrachas e vinis Interno e Externo 500g",
+   "marca": "Protelim",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/protelim/plastic-new-renovador-plasticos-borrachas-e-vinis-interno-e-externo-500g-protelim",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/plastic_new_renovador_plasticos_borrachas_e_vinis_interno_e_externo_500g_protelim_283_1_37506726672b4db6776d05386f270d76.jpg",
+   "usos": [],
+   "pronto_uso": true
+  },
+  {
+   "id": 297,
+   "nome": "POWER TIRE - Selante de Pneus",
+   "marca": "Protelim",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/protelim/power-tire-selante-de-pneus-protelim",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/power_tire_selante_de_pneus_protelim_297_1_488cc5d89d1972efe0bcb5c420aa7add.jpg",
+   "usos": [],
+   "pronto_uso": true
+  },
+  {
+   "id": 237,
+   "nome": "PROT ATIV 400 - Desincrustante Ácido",
+   "marca": "Protelim",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/protelim/protelim-prot-ativ-400-desincrustante-acido",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/protelim_prot_ativ_400_desincrustante_acido_237_1_129f094eb81ea1fa5569fa6ef7ef5b61.jpg",
+   "usos": [
+    {
+     "uso": "Uso geral",
+     "min": 10,
+     "max": 40,
+     "trecho": "A diluição vai de 1:10 a 1:40 e o tempo de ação é curto: 1 minuto antes do enxágue."
+    }
+   ],
+   "pronto_uso": false
+  },
+  {
+   "id": 235,
+   "nome": "PROT ATIV 800 - Desincrustante Ácido",
+   "marca": "Protelim",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/protelim/prot-ativ-800-desincrustante-acido-protelim",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/prot_ativ_800_desincrustante_acido_protelim_235_1_037c75de40fcc70698652a8bab424ad3.jpg",
+   "usos": [
+    {
+     "uso": "Uso geral",
+     "min": 20,
+     "max": 100,
+     "trecho": "Por isso trabalha diluído, de 1:20 a 1:100, e age em cerca de 1 minuto"
+    }
+   ],
+   "pronto_uso": false
+  },
+  {
+   "id": 233,
+   "nome": "PROT BRILHO - Finalizador de Caixa de Rodas",
+   "marca": "Protelim",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/protelim/prot-brilho-caixa-de-rodas-protelim",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/prot_brilho_caixa_de_rodas_protelim_233_1_6069fe7a09a1d29060015e313a35593a.jpg",
+   "usos": [
+    {
+     "uso": "Tapetes de borracha",
+     "min": 3,
+     "max": 3,
+     "trecho": "Para tapetes de borracha, dilua 1 parte em 3 de água e deixe secar"
+    }
+   ],
+   "pronto_uso": false
+  },
+  {
+   "id": 1035,
+   "nome": "PROT BRILHO MAX Finalizador de Caixa de Rodas",
+   "marca": "Protelim",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/protelim/prot-brilho-max-finalizador-de-caixa-de-rodas-protelim",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/prot_brilho_max_finalizador_de_caixa_de_rodas_protelim_1035_1_f48a0c2f83575128a69dfe3b75186a97.png",
+   "usos": [
+    {
+     "uso": "Caixas de roda",
+     "min": 3,
+     "max": 10,
+     "trecho": "Caixas de roda: dilua de 1:3 a 1:10"
+    },
+    {
+     "uso": "Tapetes de borracha",
+     "min": 27,
+     "max": 27,
+     "trecho": "Tapetes de borracha: dilua 1 parte do produto em até 27 partes de água"
+    }
+   ],
+   "pronto_uso": false
+  },
+  {
+   "id": 241,
+   "nome": "PROT CARP 20 - Limpa Carpetes e Estofados",
+   "marca": "Protelim",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/protelim/prot-carp-20-limpa-carpetes-e-estofados-protelim",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/prot_carp_20_limpa_carpetes_e_estofados_protelim_241_1_85b92b1e9090de26ffdfdf87cc524689.jpg",
+   "usos": [
+    {
+     "uso": "Limpeza manual",
+     "min": 20,
+     "max": 20,
+     "trecho": "Limpeza manual: 1:20"
+    },
+    {
+     "uso": "Extratora",
+     "min": 60,
+     "max": 60,
+     "trecho": "Limpeza com extratora: 1:60"
+    }
+   ],
+   "pronto_uso": false
+  },
+  {
+   "id": 261,
+   "nome": "PROT DRY - Lava a Seco Automotivo",
+   "marca": "Protelim",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/protelim/prot-dry-lava-a-seco-automotivo-protelim",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/prot_dry_lava_a_seco_automotivo_protelim_261_3_0d7e7d14aacde67423ddc15f90f3a019.png",
+   "usos": [
+    {
+     "uso": "Lavagem a seco (versão concentrada)",
+     "min": 10,
+     "max": 10,
+     "trecho": "Na versão concentrada, dilua 1 parte do produto em 10 partes de água."
+    }
+   ],
+   "pronto_uso": false
+  },
+  {
+   "id": 245,
+   "nome": "PROT GLASS - Limpa Vidros",
+   "marca": "Protelim",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/protelim/prot-glass-limpa-vidros-protelim",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/prot_glass_limpa_vidros_protelim_245_1_e6cda9547677755be038b4d1a8f1ee46.jpg",
+   "usos": [],
+   "pronto_uso": true
+  },
+  {
+   "id": 271,
+   "nome": "PROT JET20 Cera Líquida Protetora 1:20 5L",
+   "marca": "Protelim",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/protelim/prot-jet-20-cera-liquida-protetora-120-protelim",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/prot_jet_20_cera_liquida_protetora_1_20_protelim_271_1_a00c69c28dba51fc496a2f453697573f.jpg",
+   "usos": [
+    {
+     "uso": "Uso geral",
+     "min": 20,
+     "max": 20,
+     "trecho": "É concentrada: dilua 1:20 em água e aplique com ar comprimido, pulverizador de compressão prévia ou pano umedecido."
+    }
+   ],
+   "pronto_uso": false
+  },
+  {
+   "id": 243,
+   "nome": "PROT MULT 200 - Limpador Multiuso Concentrado",
+   "marca": "Protelim",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/protelim/protelim-prot-mult-200-multiuso-concentrado-1-5l-multilimpador",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/protelim_prot_mult_200_multiuso_concentrado_1_5l_multilimpador_243_1_236e13f68a4a1e6902b064c85c12e5d7.jpg",
+   "usos": [
+    {
+     "uso": "Limpeza pesada",
+     "min": 10,
+     "max": 30,
+     "trecho": "1:10 a 1:30 para limpeza pesada e 1:20 a 1:40 para limpeza leve."
+    },
+    {
+     "uso": "Limpeza leve",
+     "min": 20,
+     "max": 40,
+     "trecho": "1:10 a 1:30 para limpeza pesada e 1:20 a 1:40 para limpeza leve."
+    }
+   ],
+   "pronto_uso": false
+  },
+  {
+   "id": 249,
+   "nome": "PROT MULT 200 MAX - Limpador Multiuso Concentrado 1:150",
+   "marca": "Protelim",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/protelim/protelim-prot-mult-200-multiuso-concentrado-multilimpador",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/protelim_prot_mult_200_multiuso_concentrado_multilimpador_249_1_4cbe73cf888bf56797bd27b8f60e01d9.jpg",
+   "usos": [
+    {
+     "uso": "Sujeira pesada",
+     "min": 60,
+     "max": 60,
+     "trecho": "A alta concentração permite diluir de 1:60 para sujeira pesada até 1:150 para sujeira leve."
+    },
+    {
+     "uso": "Sujeira leve",
+     "min": 150,
+     "max": 150,
+     "trecho": "A alta concentração permite diluir de 1:60 para sujeira pesada até 1:150 para sujeira leve."
+    }
+   ],
+   "pronto_uso": false
+  },
+  {
+   "id": 287,
+   "nome": "PROT RENOVA - Revitalizador De Plásticos 400g",
+   "marca": "Protelim",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/protelim/prot-renova-revitalizador-de-plasticos-400g-protelim",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/prot_renova_revitalizador_de_plasticos_400g_protelim_287_1_9b60b1dd0ed772419869de9e8f3639a2.jpg",
+   "usos": [],
+   "pronto_uso": true
+  },
+  {
+   "id": 1595,
+   "nome": "PROT SH400 Detergente Concentrado 5L",
+   "marca": "Protelim",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/protelim/prot-sh400-detergente-concentrado-5l-protelim",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/prot_sh400_detergente_concentrado_5l_protelim_1595_1_11cfa5e59602d74427c16a78b2594599.jpg",
+   "usos": [
+    {
+     "uso": "Uso geral",
+     "min": 20,
+     "max": 50,
+     "trecho": "Dilui de 1:20 a 1:50 e pode ser aplicado manualmente ou com máquina."
+    }
+   ],
+   "pronto_uso": false
+  },
+  {
+   "id": 279,
+   "nome": "PROT SH800 Detergente Concentrado 5L",
+   "marca": "Protelim",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/protelim/prot-sh800-detergente-concentrado-5l-protelim",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/prot_sh800_detergente_concentrado_5l_protelim_279_1_f4f9171ba23cab5fa06ec57c2867db56.jpg",
+   "usos": [
+    {
+     "uso": "Sujeira mais pesada",
+     "min": 50,
+     "max": 50,
+     "trecho": "Para sujeira mais pesada, use a diluição mais forte (1:50); na manutenção, 1:100."
+    },
+    {
+     "uso": "Manutenção",
+     "min": 100,
+     "max": 100,
+     "trecho": "Para sujeira mais pesada, use a diluição mais forte (1:50); na manutenção, 1:100."
+    }
+   ],
+   "pronto_uso": false
+  },
+  {
+   "id": 1591,
+   "nome": "PROT WATER - Impermeabilizante de Tecidos 5L",
+   "marca": "Protelim",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/protelim/prot-water-impermeabilizante-de-tecidos-5l-protelim",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/prot_water_impermeabilizante_de_tecidos_5l_protelim_1591_1_bd9e1ee72eb0c9f217855a93fbeed7bc.jpg",
+   "usos": [],
+   "pronto_uso": true
+  },
+  {
+   "id": 247,
+   "nome": "PROT WATER OFF - Cristalizador de Vidros",
+   "marca": "Protelim",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/protelim/prot-water-off-cristalizador-de-vidros-protelim",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/prot_water_off_cristalizador_de_vidros_protelim_247_1_ec5c03ae0600471d93cca814e13381d9.jpg",
+   "usos": [],
+   "pronto_uso": true
+  },
+  {
+   "id": 285,
+   "nome": "PROTECT IN - Protetor de Plásticos Internos 500g",
+   "marca": "Protelim",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/protelim/protect-in-protetor-de-plasticos-internos-500g-protelim",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/protect_in_protetor_de_plasticos_internos_500g_protelim_285_1_8a8c91fd59279ca976df0d0f35d63899.jpg",
+   "usos": [],
+   "pronto_uso": true
+  },
+  {
+   "id": 291,
+   "nome": "PROTEGEL PLUS - Silicone em Gel Automotivo 3,6kg",
+   "marca": "Protelim",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/protelim/protegel-plus-silicone-gel-3-1kg-protelim",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/protegel_plus_silicone_em_gel_automotivo_291_1_0f73beda2b51911f797020b7dcf09949.jpg",
+   "usos": [],
+   "pronto_uso": true
+  },
+  {
+   "id": 1037,
+   "nome": "REMOX AIR Removedor de concreto",
+   "marca": "Protelim",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/protelim/remox-air-removedor-de-concreto-protelim",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/remox_air_removedor_de_concreto_protelim_1037_1_7839e88aa3b763ab1e1ffd52096c197f.png",
+   "usos": [
+    {
+     "uso": "Incrustação grossa",
+     "min": 3,
+     "max": 3,
+     "trecho": "De 1:3 para incrustação grossa até 1:20 para resíduo leve."
+    },
+    {
+     "uso": "Resíduo leve",
+     "min": 20,
+     "max": 20,
+     "trecho": "De 1:3 para incrustação grossa até 1:20 para resíduo leve."
+    }
+   ],
+   "pronto_uso": false
+  },
+  {
+   "id": 963,
+   "nome": "RESET Limpador de Pneus e Borrachas",
+   "marca": "Protelim",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/protelim/reset-limpador-de-pneus-e-borrachas-protelim",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/reset_limpador_de_pneus_e_borrachas_protelim_1_20250904125717_d02a860baf93.png",
+   "usos": [],
+   "pronto_uso": true
+  },
+  {
+   "id": 289,
+   "nome": "REVITAX - Revitalizador E Protetor De Plásticos",
+   "marca": "Protelim",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/protelim/revitax-revitalizador-e-protetor-de-plasticos-protelim",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/revitax_revitalizador_e_protetor_de_plasticos_protelim_289_1_244dd08493b82b0b7643f6b26f5cffda.jpg",
+   "usos": [],
+   "pronto_uso": true
+  },
+  {
+   "id": 265,
+   "nome": "STAR - Selante de Pneu Premium com Partículas de Brilho",
+   "marca": "Protelim",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/protelim/star-limpa-pneu-premium-com-particulas-de-brilho-protelim-500ml",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/star_limpa_pneu_premium_com_particulas_de_brilho_protelim_500ml_265_1_be79223482e52627462ef0bc8cf23e5c.jpg",
+   "usos": [],
+   "pronto_uso": true
+  },
+  {
+   "id": 1593,
+   "nome": "ULTRA PRO Manutenção de Vitrificadores 500ml",
+   "marca": "Protelim",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/protelim/ultra-pro-manutencao-de-vitrificadores-500ml-protelim",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/ultra_pro_manutencao_de_vitrificadores_500ml_protelim_1593_1_d84d55925cade1c6ae10c40222f61d81.jpg",
+   "usos": [],
+   "pronto_uso": true
+  },
+  {
+   "id": 1327,
+   "nome": "WATER GUARD Protetor de Tecidos 5L",
+   "marca": "Protelim",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/protelim/water-guard-protetor-de-tecidos-5l-protelim",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/water_guard_protetor_de_tecidos_5l_protelim_1_20251028090417_21528f511ec6.png",
+   "usos": [],
+   "pronto_uso": true
+  },
+  {
+   "id": 229,
+   "nome": "XTREME MOL - Detergente Desengraxante",
+   "marca": "Protelim",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/protelim/xtreme-mol-detergente-desengraxante-protelim",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/xtreme_mol_detergente_desengraxante_protelim_1_20260427105745_cec9ff16c27c.jpg",
+   "usos": [
+    {
+     "uso": "Sujeira pesada",
+     "min": 10,
+     "max": 10,
+     "trecho": "Até 1:10 para sujeira pesada, até 1:50 para média e até 1:120 para limpeza leve."
+    },
+    {
+     "uso": "Sujeira média",
+     "min": 50,
+     "max": 50,
+     "trecho": "Até 1:10 para sujeira pesada, até 1:50 para média e até 1:120 para limpeza leve."
+    },
+    {
+     "uso": "Limpeza leve",
+     "min": 120,
+     "max": 120,
+     "trecho": "Até 1:10 para sujeira pesada, até 1:50 para média e até 1:120 para limpeza leve."
+    }
+   ],
+   "pronto_uso": false
+  },
+  {
+   "id": 773,
+   "nome": "FLOW Shampoo Lava Motos Neutro",
+   "marca": "Razux",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/razux/flow-razux-shampoo-lava-motos-neutro",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/flow_shampoo_lava_motos_neutro_razux_1_20251110112234_2d4006223219.png",
+   "usos": [
+    {
+     "uso": "Uso geral",
+     "min": 250,
+     "max": 500,
+     "trecho": "Dilua de 10 a 20 ml de Flow em 5 litros de água."
+    }
+   ],
+   "pronto_uso": false
+  },
+  {
+   "id": 389,
+   "nome": "FOXY Removedor de Óleo, Graxa e Piche",
+   "marca": "Razux",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/razux/foxy-removedor-de-oleo-graxa-e-piche-razux",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/foxy_removedor_de_oleo_graxa_e_piche_razux_389_1_3f9b4198aa7e83720a0a219ba4dcf96a.png",
+   "usos": [],
+   "pronto_uso": true
+  },
+  {
+   "id": 421,
+   "nome": "KAZAN - Limpador Interno de Capacetes 240ml",
+   "marca": "Razux",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/razux/kazan-limpador-interno-de-capacetes-240ml-razux",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/kazan_limpador_interno_de_capacetes_240ml_razux_421_1_01872c43f807f9cdb76b5cc564552283.png",
+   "usos": [],
+   "pronto_uso": true
+  },
+  {
+   "id": 947,
+   "nome": "KOUREX Limpador de Couro 240ml",
+   "marca": "Razux",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/razux/kourex-limpador-de-couro-240ml-razux",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/kourex_limpador_de_couro_240ml_razux_947_1_d5136677c2b87334b40efa39b29cc765.png",
+   "usos": [],
+   "pronto_uso": true
+  },
+  {
+   "id": 929,
+   "nome": "MOTUX Renovador de Motor 240ml",
+   "marca": "Razux",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/vonixx/adaptador-snow-foam-black-amp-decker-g14-f-vonixx",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/motux_renovador_de_motor_240ml_razux_929_1_f42a9d6060632f56161030457cb02fc9.png",
+   "usos": [],
+   "pronto_uso": true
+  },
+  {
+   "id": 391,
+   "nome": "TYRANT - Revitalizador de Pneus Antiderrapante 240ml",
+   "marca": "Razux",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/razux/tyrant-revitalizador-de-pneus-antiderrapante-240ml-razux",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/tyrant_revitalizador_de_pneus_antiderrapante_240ml_razux_391_1_7ad3fc8388537e88ad4941bc5705e72a.png",
+   "usos": [],
+   "pronto_uso": true
+  },
+  {
+   "id": 1049,
+   "nome": "CONCRECLEAN Detergente Desincrustante Ácido 5L",
+   "marca": "Sandet",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/sandet/concreclean-detergente-desincrustante-acido-sandet",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/concreclean_detergente_desincrustante_acido_sandet_1049_1_1a61e7d9c8d71a96409b32b452a09e28.png",
+   "usos": [
+    {
+     "uso": "Betoneiras e carrocerias",
+     "min": 1,
+     "max": 1,
+     "trecho": "Em betoneiras e carrocerias, use o produto puro ou diluído até 50% (partes iguais de produto e água)."
+    }
+   ],
+   "pronto_uso": false
+  },
+  {
+   "id": 1041,
+   "nome": "DET MOL - Detergente Automotivo",
+   "marca": "Sandet",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/sandet/det-mol-detergente-automotivo-sandet",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/det_mol_detergente_automotivo_sandet_1041_1_2fec1f12e1b6bf0c147432afa5fd2a88.png",
+   "usos": [
+    {
+     "uso": "Limpeza leve",
+     "min": 100,
+     "max": 100,
+     "trecho": "Prepare a solução: 10 ml de Det Mol completados com água até 1 L (1%) para limpeza leve, ou 100 ml até 1 L (10%) para limpeza pesada."
+    },
+    {
+     "uso": "Limpeza pesada (chassis, graxa)",
+     "min": 10,
+     "max": 10,
+     "trecho": "Prepare a solução: 10 ml de Det Mol completados com água até 1 L (1%) para limpeza leve, ou 100 ml até 1 L (10%) para limpeza pesada."
+    }
+   ],
+   "pronto_uso": false
+  },
+  {
+   "id": 1045,
+   "nome": "LM BASE Detergente Desincrustante Ativado 5L",
+   "marca": "Sandet",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/sandet/lm-base-detergente-desincrustante-acido-sandet",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/lm_base_detergente_desincrustante_acido_sandet_1045_1_7274d8581b61b073876b19e75a3db2a7.png",
+   "usos": [
+    {
+     "uso": "Uso geral",
+     "min": 40,
+     "max": 40,
+     "trecho": "Dilua 25 ml do produto em água até completar 1 L de solução (1:40), em recipiente plástico."
+    }
+   ],
+   "pronto_uso": false
+  },
+  {
+   "id": 1043,
+   "nome": "LM SUPRA - Detergente Desincrustante Ativado",
+   "marca": "Sandet",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/sandet/lm-supra-detergente-desincrustante-acido-sandet",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/lm_supra_detergente_desincrustante_acido_sandet_1043_1_c230eb4e087684caa5274cbbb572c5f9.png",
+   "usos": [
+    {
+     "uso": "Uso geral",
+     "min": 100,
+     "max": 100,
+     "trecho": "Dilua o produto em água a 1% (1:100), em recipiente plástico."
+    }
+   ],
+   "pronto_uso": false
+  },
+  {
+   "id": 1047,
+   "nome": "X4 SUPRA Desengraxante Alcalino",
+   "marca": "Sandet",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/sandet/x4-supra-desengraxante-sandet",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/x4_supra_desengraxante_sandet_1047_1_132d3aa6958eaf82da23f25c2af79bb9.png",
+   "usos": [
+    {
+     "uso": "Uso geral",
+     "min": 100,
+     "max": 100,
+     "trecho": "Dilua 10 ml do produto em água até completar 1 L de solução (1:100)."
+    }
+   ],
+   "pronto_uso": false
+  },
+  {
+   "id": 1207,
+   "nome": "DET HONEY Detergente Automotivo 1:1500 FSE 500ML",
+   "marca": "Soft99",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/soft99/det-honey-detergente-automotivo-11500-fse-soft99",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/det_honey_detergente_automotivo_11500_fse_soft99_1_20250919145904_724c97279e9f.jpg",
+   "usos": [
+    {
+     "uso": "Balde (diluição máxima)",
+     "min": 1500,
+     "max": 1500,
+     "trecho": "Dilua o produto na água do balde; a diluição máxima é 1:1500."
+    }
+   ],
+   "pronto_uso": false
+  },
+  {
+   "id": 1709,
+   "nome": "Clear Glass BR Limpa Vidros 500ml",
+   "marca": "SONAX",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/sonax/clear-glass-br-limpa-vidros-500ml-sonax",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/clear_glass_br_limpa_vidros_500ml_sonax_1709_1_d138548456796e5a4ff6e56628c1e3cf.jpg",
+   "usos": [],
+   "pronto_uso": true
+  },
+  {
+   "id": 1705,
+   "nome": "Interior Cleaner Limpador Multiuso 500ml",
+   "marca": "SONAX",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/sonax/interior-cleaner-limpador-multiuso-500ml-sonax",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/interior_cleaner_limpador_multiuso_500ml_sonax_1705_1_9ca680b32a3a225cb606eb4f1409baee.jpg",
+   "usos": [
+    {
+     "uso": "Superfícies delicadas",
+     "min": 10,
+     "max": 50,
+     "trecho": "A diluição de 1:10 a 1:50 é indicada para superfícies delicadas."
+    }
+   ],
+   "pronto_uso": false
+  },
+  {
+   "id": 65,
+   "nome": "ALUMAX Desincrustante Ativado Concentrado / Limpador de Alumínio e Carrocerias",
+   "marca": "Vintex",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/vintex/alumax-desincrustante-acido-concentrado-5l-limpador-de-aluminio-e-carrocerias-vintex",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/alumax_desincrustante_acido_concentrado_5l_limpador_de_aluminio_e_carrocerias_vintex_65_1_a962b7d92b430dc4d361c215a0068fcd.jpg",
+   "usos": [
+    {
+     "uso": "Uso geral",
+     "min": 10,
+     "max": 10,
+     "trecho": "Dilua o produto na proporção de 1:10 em água."
+    }
+   ],
+   "pronto_uso": false
+  },
+  {
+   "id": 83,
+   "nome": "ECOBLACK - Finalizador para caixas de rodas",
+   "marca": "Vintex",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/vintex/ecoblack-vintex",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/ecoblack_vintex_83_1_56c40ad9d80f09970da78c270af61d53.jpg",
+   "usos": [
+    {
+     "uso": "Caixas de roda: acabamento fosco",
+     "min": 4,
+     "max": 4,
+     "trecho": "puro para brilho ou diluído até 1 parte de produto para 4 de água para um visual fosco, mais discreto."
+    }
+   ],
+   "pronto_uso": false
+  },
+  {
+   "id": 117,
+   "nome": "LAVA AUTOS Shampoo Automotivo",
+   "marca": "Vintex",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/vintex/lava-autos-vintex",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/lava_autos_shampoo_automotivo_vintex_117_1_87a762fb7179f09a8bd864b3e09a9df0.png",
+   "usos": [
+    {
+     "uso": "Balde",
+     "min": 50,
+     "max": 50,
+     "trecho": "Dilua 100 ml do produto em 5 litros de água no balde."
+    }
+   ],
+   "pronto_uso": false
+  },
+  {
+   "id": 119,
+   "nome": "LIMPA VIDROS",
+   "marca": "Vintex",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/vintex/limpa-vidros-vintex",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/limpa_vidros_vintex_119_1_822af6667642e9b573cfd8a8b6ccb301.png",
+   "usos": [],
+   "pronto_uso": true
+  },
+  {
+   "id": 141,
+   "nome": "REMOVEX - Desengraxante e Limpador de Chassis",
+   "marca": "Vintex",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/vintex/removex-vintex",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/removex_vintex_141_1_61c1ba8222d08bab5825ff6989c691cb.jpg",
+   "usos": [
+    {
+     "uso": "Sujeira pesada",
+     "min": 10,
+     "max": 10,
+     "trecho": "diluído 1:10 em água, age em 1 a 3 minutos e sai com jato d'água."
+    }
+   ],
+   "pronto_uso": false
+  },
+  {
+   "id": 1335,
+   "nome": "ACIDUS FAST Limpador Ácido Automotivo 500ml",
+   "marca": "Vonixx",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/vonixx/acidus-fast-limpador-acido-automotivo-500ml-vonixx",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/acidus_fast_limpador_cido_automotivo_500ml_von_1_20251104151423_7c25f5c13081.png",
+   "usos": [],
+   "pronto_uso": true
+  },
+  {
+   "id": 907,
+   "nome": "BACTRAN Limpador Bactericida 7 em 1",
+   "marca": "Vonixx",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/vonixx/bactran-1-5l-limpador-bactericida-7-em-1-vonixx",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/bactran_limpador_bactericida_7_em_1_vonixx_1_20260623113057_c54be7fe741d.png",
+   "usos": [
+    {
+     "uso": "Sujeira pesada",
+     "min": 10,
+     "max": 10,
+     "trecho": "Sujeira pesada: 1:10"
+    },
+    {
+     "uso": "Sujeira média",
+     "min": 30,
+     "max": 30,
+     "trecho": "Sujeira média: 1:30"
+    },
+    {
+     "uso": "Sujeira leve",
+     "min": 60,
+     "max": 60,
+     "trecho": "Sujeira leve: 1:60"
+    },
+    {
+     "uso": "Mancha localizada",
+     "min": 2,
+     "max": 2,
+     "trecho": "Mancha localizada: 1:2, com 5 minutos de ação antes da extração"
+    }
+   ],
+   "pronto_uso": false
+  },
+  {
+   "id": 323,
+   "nome": "Blend Black Wax Cera em Pasta 100ml",
+   "marca": "Vonixx",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/vonixx/blend-black-wax-cera-em-pasta-100ml-vonixx",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/blend_black_wax_cera_em_pasta_100ml_vonixx_323_1_0da4b91cc72d5d4e07afc4e313177951.png",
+   "usos": [],
+   "pronto_uso": true
+  },
+  {
+   "id": 989,
+   "nome": "Blend Metal Polish 150g Polidor de Metais",
+   "marca": "Vonixx",
+   "url": "https://www.lojadodetalhamento.com.br/lavagem/ceras/blend-metal-polish-150g-vonixx",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/blend_metal_polish_150g_vonixx_989_1_b8da1dc1c0cb35ae89267fbb0d114b95.png",
+   "usos": [],
+   "pronto_uso": true
+  },
+  {
+   "id": 1349,
+   "nome": "Blend Paste Wax 100ml",
+   "marca": "Vonixx",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/vonixx/blend-paste-wax-100ml-vonixx",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/blend_paste_wax_100ml_vonixx_1_20251110101302_caf8e27e6502.png",
+   "usos": [],
+   "pronto_uso": true
+  },
+  {
+   "id": 75,
+   "nome": "BLEND SPRAY - Cera líquida 500ml",
+   "marca": "Vonixx",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/vonixx/cera-liquida-blend-spray-vonixx-500ml",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/cera_liquida_blend_spray_vonixx_500ml_75_1_d43db9ab2a45c56d0d5b0b2a370d7034.jpg",
+   "usos": [],
+   "pronto_uso": true
+  },
+  {
+   "id": 341,
+   "nome": "Carnaúba EXPRESS Ultra - Cera Líquida 1,5L",
+   "marca": "Vonixx",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/vonixx/carnauba-express-ultra-cera-liquida-1-5l-vonixx",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/carnauba_express_ultra_cera_liquida_1_5l_vonixx_341_1_98fbb964520433615c9a29d8262cb1f9.png",
+   "usos": [
+    {
+     "uso": "Pintura",
+     "min": 20,
+     "max": 50,
+     "trecho": "Pintura: 1:20 a 1:50 (20 a 30 ml por litro de água)."
+    },
+    {
+     "uso": "Pintura: mais brilho (mínimo)",
+     "min": 15,
+     "max": 15,
+     "trecho": "Para mais brilho, diminua a diluição, até o mínimo de 1:15."
+    },
+    {
+     "uso": "Plásticos internos: acetinado",
+     "min": 4,
+     "max": 4,
+     "trecho": "Plásticos internos, acabamento acetinado: 1:4 (100 ml de produto em 300 ml de água)."
+    }
+   ],
+   "pronto_uso": false
+  },
+  {
+   "id": 77,
+   "nome": "Carnaúba PLUS - Cera Limpadora",
+   "marca": "Vonixx",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/vonixx/carnauba-plus-cera-limpadora-vonixx",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/carnaba_plus_cera_limpadora_vonixx_1_20260624152525_30116cf29cef.png",
+   "usos": [],
+   "pronto_uso": true
+  },
+  {
+   "id": 343,
+   "nome": "Cera Rápida de Carnaúba TOK FINAL 500ml",
+   "marca": "Vonixx",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/vonixx/cera-rapida-de-carnauba-tok-final-500ml-vonixx",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/cera_rapida_de_carnauba_tok_final_500ml_vonixx_343_1_4ab7ac03110bfdfdb0cd1a34a53c554b.png",
+   "usos": [],
+   "pronto_uso": true
+  },
+  {
+   "id": 357,
+   "nome": "Composto Polidor V-CUT Corte Premium 500ml",
+   "marca": "Vonixx",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/vonixx/composto-polidor-v-cut-corte-premium-500ml-vonixx",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/composto_polidor_v_cut_corte_premium_500ml_vonixx_357_1_fef9ccfe33ab56f00b4f92e72f17afab.png",
+   "usos": [],
+   "pronto_uso": true
+  },
+  {
+   "id": 359,
+   "nome": "Composto Polidor V-FINISH Lustro Premium 500ml",
+   "marca": "Vonixx",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/vonixx/composto-polidor-v-finish-lustro-premium-500ml-vonixx",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/composto_polidor_v_finish_lustro_premium_500ml_vonixx_359_1_8c9c65fbd7e35ae950a7f88484f58b7b.png",
+   "usos": [],
+   "pronto_uso": true
+  },
+  {
+   "id": 367,
+   "nome": "Composto Polidor V-POLISH Refino Premium 500ml",
+   "marca": "Vonixx",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/vonixx/composto-polidor-v-polish-refino-premium-500ml-vonixx",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/composto_polidor_v_polish_refino_premium_500ml_vonixx_367_1_03735de0e68032df6f33eeec4b624b8e.png",
+   "usos": [],
+   "pronto_uso": true
+  },
+  {
+   "id": 349,
+   "nome": "Composto Polidor V10 Corte para Verniz Asiático 500ml",
+   "marca": "Vonixx",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/vonixx/composto-polidor-v10-corte-para-verniz-asiatico-500ml-vonixx",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/composto_polidor_v10_corte_para_verniz_asiatico_500ml_vonixx_349_1_18b91facade7cebb01e89b4481532b37.png",
+   "usos": [],
+   "pronto_uso": true
+  },
+  {
+   "id": 351,
+   "nome": "Composto Polidor V20 Refino para Verniz Asiático 500ml",
+   "marca": "Vonixx",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/vonixx/composto-polidor-v20-refino-para-verniz-asiatico-500ml-vonixx",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/composto_polidor_v20_refino_para_verniz_asiatico_500ml_vonixx_351_1_c603354b3f35c378663702fed0b79550.png",
+   "usos": [],
+   "pronto_uso": true
+  },
+  {
+   "id": 353,
+   "nome": "Composto Polidor V30 Lustro para Verniz Asiático 500ml",
+   "marca": "Vonixx",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/vonixx/composto-polidor-v30-lustro-para-verniz-asiatico-500ml-vonixx",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/composto_polidor_v30_lustro_para_verniz_asiatico_500ml_vonixx_353_1_e8b0060070121eebd02b02ce79e44418.png",
+   "usos": [],
+   "pronto_uso": true
+  },
+  {
+   "id": 355,
+   "nome": "Composto Polidor V40 4 em 1 para Verniz Asiático 500ml",
+   "marca": "Vonixx",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/vonixx/composto-polidor-v40-4-em-1-para-verniz-asiatico-500ml-vonixx",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/composto_polidor_v40_4_em_1_para_verniz_asiatico_500ml_vonixx_355_1_008a6902563e54936b5c20b76520aaa6.png",
+   "usos": [],
+   "pronto_uso": true
+  },
+  {
+   "id": 789,
+   "nome": "Composto Polidor V80 Selante sintético 500ml",
+   "marca": "Vonixx",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/vonixx/composto-polidor-v80-selante-sintetico-verniz-asiatico-500ml-vonixx",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/composto_polidor_v80_selante_sintetico_500ml_vonixx_789_1_3d63ca9230b05589c01c97bdbe953dce.png",
+   "usos": [],
+   "pronto_uso": true
+  },
+  {
+   "id": 101,
+   "nome": "EXTRACTUS - Limpador Ultra Concentrado",
+   "marca": "Vonixx",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/vonixx/extractus-vonixx",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/extractus_limpador_ultra_concentrado_vonixx_1_20260623132336_6c8a239ab099.png",
+   "usos": [
+    {
+     "uso": "Sujeira pesada",
+     "min": 10,
+     "max": 10,
+     "trecho": "Sujeira pesada: 1:10"
+    },
+    {
+     "uso": "Sujeira média",
+     "min": 30,
+     "max": 30,
+     "trecho": "Sujeira média: 1:30"
+    },
+    {
+     "uso": "Sujeira leve",
+     "min": 60,
+     "max": 60,
+     "trecho": "Sujeira leve: 1:60"
+    }
+   ],
+   "pronto_uso": false
+  },
+  {
+   "id": 395,
+   "nome": "FLEXUS - Limpador e Condicionador de Plásticos 500ml",
+   "marca": "Vonixx",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/vonixx/flexus-limpador-e-condicionador-de-plasticos-500ml-vonixx",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/flexus_limpador_e_condicionador_de_plasticos_500ml_vonixx_395_1_d436dda06c701e8815df94560d56c633.png",
+   "usos": [],
+   "pronto_uso": true
+  },
+  {
+   "id": 387,
+   "nome": "GLADIUS - Reconstrutor Cerâmico 500ml",
+   "marca": "Vonixx",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/vonixx/gladius-reconstrutor-ceramico-500ml-vonixx",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/gladius_reconstrutor_ceramico_500ml_vonixx_387_1_308c763702830a952682de22efffd5b9.png",
+   "usos": [],
+   "pronto_uso": true
+  },
+  {
+   "id": 347,
+   "nome": "GLAZY - Limpa Vidros 4 em 1",
+   "marca": "Vonixx",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/vonixx/glazy-limpa-vidros-4-em-1-vonixx",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/glazy_limpa_vidros_4_em_1_vonixx_347_1_76ed72b9e0e01897c4c10177a08bcee9.png",
+   "usos": [],
+   "pronto_uso": true
+  },
+  {
+   "id": 1649,
+   "nome": "GLIZZ Otimizador para Polimento 500ml",
+   "marca": "Vonixx",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/vonixx/glizz-otimizador-para-polimento-500ml-vonixx",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/glizz_otimizador_para_polimento_500ml_vonixx_1_20260618164433_052cd9d3e1ee.jpg",
+   "usos": [],
+   "pronto_uso": true
+  },
+  {
+   "id": 383,
+   "nome": "HIDRACOURO - Hidratante para Couro 500ml",
+   "marca": "Vonixx",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/vonixx/hidracouro-hidratante-para-couro-500ml-vonixx",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/hidracouro_hidratante_para_couro_500ml_vonixx_383_1_e00093212f2552720585df41a84c6866.png",
+   "usos": [],
+   "pronto_uso": true
+  },
+  {
+   "id": 385,
+   "nome": "HIGICOURO - Limpador de Couro 500ml",
+   "marca": "Vonixx",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/vonixx/higicouro-limpador-de-couro-500ml-vonixx",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/higicouro_limpador_de_couro_500ml_vonixx_385_1_1b2c963cffbee733afc555d372d1867d.png",
+   "usos": [],
+   "pronto_uso": true
+  },
+  {
+   "id": 995,
+   "nome": "HYDROX FAST - Coating Hidrorreativo 500ml",
+   "marca": "Vonixx",
+   "url": "https://www.lojadodetalhamento.com.br/coating/hydrox-fast-500ml-vonixx",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/hydrox_fast_500ml_vonixx_995_1_df78e5d2b57b5dfb055b02d6fe974708.png",
+   "usos": [],
+   "pronto_uso": true
+  },
+  {
+   "id": 997,
+   "nome": "HYDROX PRO Coating Cerâmico Hidrorreativo",
+   "marca": "Vonixx",
+   "url": "https://www.lojadodetalhamento.com.br/coating/hydrox-pro-500ml-vonixx",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/hydrox_pro_500ml_vonixx_997_1_8270927b6707539f7531ba21ee8e9c36.png",
+   "usos": [
+    {
+     "uso": "Proteção até 10 meses",
+     "min": 20,
+     "max": 20,
+     "trecho": "1:20 para até 10 meses, 1:40 para até 8 meses."
+    },
+    {
+     "uso": "Proteção até 8 meses",
+     "min": 40,
+     "max": 40,
+     "trecho": "1:20 para até 10 meses, 1:40 para até 8 meses."
+    },
+    {
+     "uso": "Mais rendimento, menos duração",
+     "min": 60,
+     "max": 60,
+     "trecho": "A 1:60 rende mais e protege por menos tempo."
+    }
+   ],
+   "pronto_uso": false
+  },
+  {
+   "id": 1227,
+   "nome": "HYDROX WASH Shampoo Lava Autos Cerâmico 2 em 1",
+   "marca": "Vonixx",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/vonixx/hydrox-wash-lava-autos-240ml-vonixx",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/hydrox_wash_shampoo_lava_autos_cermico_2_em_1_vo_1_20251118135103_2fea180412c1.png",
+   "usos": [
+    {
+     "uso": "Balde",
+     "min": 20,
+     "max": 100,
+     "trecho": "Balde: de 1:20 a 1:100"
+    },
+    {
+     "uso": "Canhão de espuma",
+     "min": 7,
+     "max": 20,
+     "trecho": "Canhão de espuma: 50 a 150 ml por litro de água"
+    }
+   ],
+   "pronto_uso": false
+  },
+  {
+   "id": 103,
+   "nome": "IMPACT - Multilimpador para Limpeza Pesada",
+   "marca": "Vonixx",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/vonixx/impact-vonixx",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/impact_multilimpador_para_limpeza_pesada_vonixx_103_1_b6c7e302eb8dec9247ba211e26f8f119.png",
+   "usos": [
+    {
+     "uso": "Superfícies incrustadas",
+     "min": 1,
+     "max": 1,
+     "trecho": "Superfícies incrustadas: 1:1"
+    },
+    {
+     "uso": "Limpeza pesada",
+     "min": 10,
+     "max": 10,
+     "trecho": "Limpeza pesada: 1:10"
+    },
+    {
+     "uso": "Média intensidade",
+     "min": 30,
+     "max": 30,
+     "trecho": "Média intensidade: 1:30"
+    },
+    {
+     "uso": "Manutenção",
+     "min": 50,
+     "max": 50,
+     "trecho": "Manutenção: 1:50"
+    },
+    {
+     "uso": "Tornador",
+     "min": 20,
+     "max": 20,
+     "trecho": "Tornador: até 1:20"
+    },
+    {
+     "uso": "Extratora",
+     "min": 60,
+     "max": 60,
+     "trecho": "Extratora: até 1:60"
+    }
+   ],
+   "pronto_uso": false
+  },
+  {
+   "id": 381,
+   "nome": "INTENSE - Renovador de Plásticos",
+   "marca": "Vonixx",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/vonixx/intense-renovador-de-plasticos-vonixx",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/intense_renovador_de_plsticos_vonixx_1_20250925102354_2e72977c8911.png",
+   "usos": [],
+   "pronto_uso": true
+  },
+  {
+   "id": 107,
+   "nome": "IZER - Descontaminante Ferroso",
+   "marca": "Vonixx",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/vonixx/izer-vonixx",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/izer_descontaminante_ferroso_vonixx_107_1_b3de3ec218086830d898810bc3a42fe0.png",
+   "usos": [
+    {
+     "uso": "Pintura",
+     "min": 1,
+     "max": 1,
+     "trecho": "Na pintura, a Vonixx permite diluir até 1:1."
+    }
+   ],
+   "pronto_uso": false
+  },
+  {
+   "id": 377,
+   "nome": "MAKKER Maquiador Automotivo 500ml-",
+   "marca": "Vonixx",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/vonixx/makker-maquiador-automotivo-500ml-vonixx",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/makker_maquiador_automotivo_500ml_vonixx_377_1_1017388bcf5f3c5176f5bd4db8de36a6.png",
+   "usos": [],
+   "pronto_uso": true
+  },
+  {
+   "id": 131,
+   "nome": "NATIVE PASTE WAX - Cera de Carnaúba em pasta 100ml",
+   "marca": "Vonixx",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/vonixx/native-paste-wax-vonixx",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/native_paste_wax_vonixx_131_1_d312a7de104848da2d21b5d4ed0a6b78.jpg",
+   "usos": [],
+   "pronto_uso": true
+  },
+  {
+   "id": 133,
+   "nome": "NATIVE SPRAY WAX - Cera Líquida de Carnaúba 500ml",
+   "marca": "Vonixx",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/vonixx/native-spray-wax-vonixx",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/native_spray_wax_vonixx_133_1_9b9ca47032eae7b7ff6586ac91716e03.jpg",
+   "usos": [],
+   "pronto_uso": true
+  },
+  {
+   "id": 379,
+   "nome": "OPTY - Composto Polidor de Vidros 240ml",
+   "marca": "Vonixx",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/vonixx/opty-composto-polidor-de-vidros-240ml-vonixx",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/opty_composto_polidor_de_vidros_240ml_vonixx_379_1_94b4272215f02cdeab7792b3a46695e9.png",
+   "usos": [],
+   "pronto_uso": true
+  },
+  {
+   "id": 137,
+   "nome": "PRIZM - Removedor de Chuva Ácida",
+   "marca": "Vonixx",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/vonixx/prizm-vonixx",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/prizm_removedor_de_chuva_acida_vonixx_137_1_68841f69a0fdce44f438c4a57d62d5eb.png",
+   "usos": [],
+   "pronto_uso": true
+  },
+  {
+   "id": 1663,
+   "nome": "RESTAURAX Restaurador de Plásticos",
+   "marca": "Vonixx",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/vonixx/restaurax-restaurador-de-plasticos-240ml-vonixx",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/restaurax_restaurador_de_plsticos_240ml_vonixx_1_20260623091122_9bbb6f7b0b21.png",
+   "usos": [],
+   "pronto_uso": true
+  },
+  {
+   "id": 147,
+   "nome": "REVELAX - Revelador de Hologramas",
+   "marca": "Vonixx",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/vonixx/revelax-vonixx",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/revelax_revelador_de_hologramas_vonixx_147_1_d8fb255ca00124e82803363d01af8f27.png",
+   "usos": [],
+   "pronto_uso": true
+  },
+  {
+   "id": 149,
+   "nome": "REVOX - Selante para Pneus Acetinado",
+   "marca": "Vonixx",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/vonixx/revox-vonixx",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/revox_vonixx_149_1_2d68bc590d0914bb8c456ac8ecb0205c.jpg",
+   "usos": [],
+   "pronto_uso": true
+  },
+  {
+   "id": 943,
+   "nome": "Sanitizante Finalizador",
+   "marca": "Vonixx",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/vonixx/sanitizante-finalizador-1-5l-vonixx",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/sanitizante_finalizador_vonixx_943_1_6af8a93ff02cd81b18e470dd0a87c975.png",
+   "usos": [
+    {
+     "uso": "Uso geral",
+     "min": 10,
+     "max": 10,
+     "trecho": "Dilua o Sanitizante Finalizador na proporção 1:10."
+    }
+   ],
+   "pronto_uso": false
+  },
+  {
+   "id": 151,
+   "nome": "SHINY Revitalizador de Pneus Pretinho",
+   "marca": "Vonixx",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/vonixx/shiny-vonixx",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/shiny_revitalizador_de_pneus_pretinho_vonixx_151_1_91376b3b25078785fb2f714b70813a8d.png",
+   "usos": [],
+   "pronto_uso": true
+  },
+  {
+   "id": 1009,
+   "nome": "Sinergy Paint - Vitrificador em Spray para Pintura 500ml",
+   "marca": "Vonixx",
+   "url": "https://www.lojadodetalhamento.com.br/coating/sinergy-paint-500ml-vonixx-1009",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/sinergy_paint_500ml_vonixx_1009_1_c3e10e4402d4cee3b04f01f34c6214eb.png",
+   "usos": [],
+   "pronto_uso": true
+  },
+  {
+   "id": 1011,
+   "nome": "Sinergy Plastic - Vitrificador em Spray para Plásticos 500ml",
+   "marca": "Vonixx",
+   "url": "https://www.lojadodetalhamento.com.br/coating/sinergy-plastic-500ml-vonixx",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/sinergy_plastic_500ml_vonixx_1011_1_4db306f9b8353b07e1bf1317a405b482.png",
+   "usos": [],
+   "pronto_uso": true
+  },
+  {
+   "id": 1141,
+   "nome": "Sinergy Wheel - Vitrificador em Spray para Rodas 500ml",
+   "marca": "Vonixx",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/vonixx/sinergy-wheel-500ml-vonixx",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/sinergy_wheel_500ml_vonixx_1141_1_1297158092bdbbcc402b1bc800a10f40.png",
+   "usos": [],
+   "pronto_uso": true
+  },
+  {
+   "id": 373,
+   "nome": "SINTRA FAST - APC Multilimpador Interno 500ml",
+   "marca": "Vonixx",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/vonixx/sintra-fast-multilimpador-interno-500ml-vonixx",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/sintra_fast_multilimpador_interno_500ml_vonixx_373_1_32072e0bc8f835f51c24460732313a58.png",
+   "usos": [],
+   "pronto_uso": true
+  },
+  {
+   "id": 153,
+   "nome": "SINTRA PRO - APC Multilimpador Interno",
+   "marca": "Vonixx",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/vonixx/sintra-pro-vonixx",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/sintra_pro_vonixx_153_1_6a2896a758f442347cea1e756b28dfe4.jpg",
+   "usos": [
+    {
+     "uso": "Portas, plásticos e couro muito sujos",
+     "min": 5,
+     "max": 5,
+     "trecho": "Laterais de portas, plásticos e couro muito encardido: 1:5"
+    },
+    {
+     "uso": "Carpetes, estofados e teto: pesada",
+     "min": 10,
+     "max": 10,
+     "trecho": "Carpetes, estofados e teto: 1:10 sujeira pesada, 1:20 média, 1:30 leve"
+    },
+    {
+     "uso": "Carpetes, estofados e teto: média",
+     "min": 20,
+     "max": 20,
+     "trecho": "Carpetes, estofados e teto: 1:10 sujeira pesada, 1:20 média, 1:30 leve"
+    },
+    {
+     "uso": "Carpetes, estofados e teto: leve",
+     "min": 30,
+     "max": 30,
+     "trecho": "Carpetes, estofados e teto: 1:10 sujeira pesada, 1:20 média, 1:30 leve"
+    },
+    {
+     "uso": "Manutenção de painéis, portas e couro",
+     "min": 50,
+     "max": 50,
+     "trecho": "Manutenção de painéis, portas e bancos de couro: 1:50"
+    },
+    {
+     "uso": "Extratora",
+     "min": 60,
+     "max": 60,
+     "trecho": "Extratora: até 1:60"
+    },
+    {
+     "uso": "Tornador",
+     "min": 10,
+     "max": 10,
+     "trecho": "Tornador: 1:10"
+    }
+   ],
+   "pronto_uso": false
+  },
+  {
+   "id": 155,
+   "nome": "SIO2-PRO - Manutenção de Vitrificadores",
+   "marca": "Vonixx",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/vonixx/sio2-pro-vonixx",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/sio2_pro_vonixx_155_1_ef37892409ed4d24c145fbfeb057ba71.jpg",
+   "usos": [],
+   "pronto_uso": true
+  },
+  {
+   "id": 159,
+   "nome": "STRIKE - Removedor de Piche e Cola",
+   "marca": "Vonixx",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/vonixx/strike-vonixx",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/strike_vonixx_159_1_9c05387cc777b8364cdf3597a25b4172.jpg",
+   "usos": [],
+   "pronto_uso": true
+  },
+  {
+   "id": 1143,
+   "nome": "V-ECO FAST Lava a Seco Pronto Uso 500ml",
+   "marca": "Vonixx",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/vonixx/v-eco-fast-500ml-vonixx",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/v_eco_fast_500ml_vonixx_1143_1_f9536d9c81d348a458e4fe62e6d66b6f.png",
+   "usos": [],
+   "pronto_uso": true
+  },
+  {
+   "id": 1667,
+   "nome": "V-ECO PRO - Lavagem Ecológica 1,5L",
+   "marca": "Vonixx",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/vonixx/v-eco-pro-lavagem-ecologica-1-5l-vonixx",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/v_eco_pro_lavagem_ecolgica_15l_vonixx_1_20260623105643_5c3d0518ce24.png",
+   "usos": [
+    {
+     "uso": "Sujeira pesada (barro ou lama)",
+     "min": 15,
+     "max": 15,
+     "trecho": "Pesada (barro ou lama): 1:15"
+    },
+    {
+     "uso": "Convencional (pó e lama leve)",
+     "min": 30,
+     "max": 30,
+     "trecho": "Convencional (pó e respingos leves de lama): 1:30"
+    },
+    {
+     "uso": "Leve e manutenção (poeira)",
+     "min": 50,
+     "max": 50,
+     "trecho": "Leve e manutenção (poeira): 1:50"
+    }
+   ],
+   "pronto_uso": false
+  },
+  {
+   "id": 779,
+   "nome": "V-ENERGY PRO Vitrificador Coating Cerâmico para Motor 50ml",
+   "marca": "Vonixx",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/vonixx/v-energy-pro-50ml",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/v_energy_pro_vitrificador_coating_ceramico_para_motor_50ml_vonixx_779_1_9561d8d549937f080a22a7221da0d71f.png",
+   "usos": [],
+   "pronto_uso": true
+  },
+  {
+   "id": 173,
+   "nome": "V-FLOC - Shampoo Neutro",
+   "marca": "Vonixx",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/vonixx/v-floc-vonixx",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/v_floc_shampoo_neutro_vonixx_1_20260220162345_d4c3385cbf5e.png",
+   "usos": [
+    {
+     "uso": "Balde",
+     "min": 400,
+     "max": 400,
+     "trecho": "Balde: 1:400 (cerca de 10 ml em 4 litros de água)."
+    },
+    {
+     "uso": "Snow foam",
+     "min": 20,
+     "max": 20,
+     "trecho": "Snow foam: 1:20."
+    }
+   ],
+   "pronto_uso": false
+  },
+  {
+   "id": 945,
+   "nome": "V-LEATHER PRO Vitrificador para couro VONIXX 50ML",
+   "marca": "Vonixx",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/vonixx/v-leather-pro-50ml-vonixx",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/v_leather_pro_50ml_vonixx_945_1_8bddb8cddf98fe5fe319b8c8bbc59a23.png",
+   "usos": [],
+   "pronto_uso": true
+  },
+  {
+   "id": 783,
+   "nome": "V-LIGHT PRO Vitrificador para Faróis VONIXX 50ML",
+   "marca": "Vonixx",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/vonixx/v-light-pro-50ml",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/v_light_pro_vitrificador_para_farois_vonixx_50ml_783_1_97377160a742b3541b2d24ad751f0b30.png",
+   "usos": [],
+   "pronto_uso": true
+  },
+  {
+   "id": 781,
+   "nome": "V-LIGHT Vitrificador para Faróis VONIXX 20ML",
+   "marca": "Vonixx",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/vonixx/v-light-20ml",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/v_light_vitrificador_para_farois_vonixx_20ml_781_1_e10585a27c9ab772eefc13631f65efe3.png",
+   "usos": [],
+   "pronto_uso": true
+  },
+  {
+   "id": 175,
+   "nome": "V-LUB - Lubrificante para Barra Descontaminante",
+   "marca": "Vonixx",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/vonixx/v-lub-vonixx",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/v_lub_lubrificante_para_barra_descontaminante_vonixx_175_1_1755dd3bee44d7fad596d0bcd06f8f00.png",
+   "usos": [],
+   "pronto_uso": true
+  },
+  {
+   "id": 177,
+   "nome": "V-MOL - Shampoo de Pré Lavagem",
+   "marca": "Vonixx",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/vonixx/v-mol-vonixx",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/v_mol_shampoo_de_pre_lavagem_vonixx_177_1_ef65ee79312715829d9b4fbae0bf7261.png",
+   "usos": [
+    {
+     "uso": "Manutenção / sujeira leve",
+     "min": 100,
+     "max": 100,
+     "trecho": "Manutenção / sujeira leve: 1:100"
+    },
+    {
+     "uso": "Sujeira média",
+     "min": 50,
+     "max": 50,
+     "trecho": "Sujeira média: 1:50"
+    },
+    {
+     "uso": "Sujeira pesada",
+     "min": 10,
+     "max": 10,
+     "trecho": "Sujeira pesada: 1:10"
+    }
+   ],
+   "pronto_uso": false
+  },
+  {
+   "id": 785,
+   "nome": "V-PAINT PRO Vitrificador para Pintura VONIXX 50ml",
+   "marca": "Vonixx",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/vonixx/v-paint-pro-vitrificador-pintura-vonixx-50ml",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/v_paint_pro_vitrificador_para_pintura_vonixx_50ml_785_1_d0efa959c6f14e059775f559403dbf1f.png",
+   "usos": [],
+   "pronto_uso": true
+  },
+  {
+   "id": 363,
+   "nome": "V-PAINT Vitrificador para Pintura VONIXX 20ml",
+   "marca": "Vonixx",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/vonixx/v-paint-vitrificador-pintura-vonixx-20ml",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/v_paint_vitrificador_pintura_vonixx_20ml_363_1_cede7378e5132375c4ce62fa5d25c79c.png",
+   "usos": [],
+   "pronto_uso": true
+  },
+  {
+   "id": 365,
+   "nome": "V-PLASTIC Vitrificador de Plásticos VONIXX 20ml",
+   "marca": "Vonixx",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/vonixx/v-plastic-vitrificador-de-plasticos-vonixx-20ml",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/v_plastic_vitrificador_de_plasticos_vonixx_20ml_365_1_fdcd762230ea71c3bde0b23db690048d.png",
+   "usos": [],
+   "pronto_uso": true
+  },
+  {
+   "id": 167,
+   "nome": "VERNIZ DE MOTOR - Base de Solvente",
+   "marca": "Vonixx",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/vonixx/verniz-de-motor",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/verniz_de_motor_167_1_cd21b9fdd010cbdb1a9aeef57cc4ee55.jpg",
+   "usos": [],
+   "pronto_uso": true
+  },
+  {
+   "id": 403,
+   "nome": "MITTUS - Shampoo Neutro Concentrado 500ml",
+   "marca": "ZACS",
+   "url": "https://www.lojadodetalhamento.com.br/marcas/zacs/mittus-shampoo-neutro-concentrado-500ml-zacs",
+   "img": "https://images.tcdn.com.br/img/img_prod/1315288/mittus_shampoo_neutro_concentrado_500ml_zacs_403_1_0eb2bb9bf2705ff89c5bca47a757d62d.png",
+   "usos": [
+    {
+     "uso": "Balde",
+     "min": 400,
+     "max": 400,
+     "trecho": "Dilua cerca de 10 ml de Mittus em 4 litros de água no balde."
+    }
+   ],
+   "pronto_uso": false
+  }
+ ],
+ "duvidas": [
+  {
+   "id": 1023,
+   "motivo": "Texto diz para conferir no rótulo se é pronto uso ou diluído; a Bugatti não publica diluição."
+  },
+  {
+   "id": 1537,
+   "motivo": "Glaco Washer: só diz 'diluição máxima em 4 litros de água', sem a quantidade de produto; proporção não dá para calcular."
+  },
+  {
+   "id": 369,
+   "motivo": "Soult Pro (limpador de boinas): dá 1:1 (ceras/selantes) e 1:4 (polidores), mas o texto não diz que a diluição é em água."
+  },
+  {
+   "id": 1049,
+   "motivo": "Concreclean: além do 1:1 (partes iguais) registrado, dá 20% para piso recém-assentado (20 L de produto em 100 L de solução); 20% não foi convertido em proporção."
+  },
+  {
+   "id": 1227,
+   "motivo": "Hydrox Wash: o canhão de espuma vem em ml por litro (50 a 150 ml/L) e foi convertido para ~1:7 a 1:20 (1000/150 = 6,7, arredondado); conferir."
+  },
+  {
+   "id": 1041,
+   "motivo": "Det Mol: texto dá solução a 1% e 10% (10 ml e 100 ml completados até 1 L); registrei como 1:100 e 1:10, mesma convenção que a Sandet usa no LM Supra '1% (1:100)'; conferir."
+  },
+  {
+   "id": 605,
+   "motivo": "APC Orange: o frasco de 500 ml é pronto uso; as diluições valem só para o galão de 5 L (indisponível no cadastro)."
+  },
+  {
+   "id": 427,
+   "motivo": "Soft Pig: pronto uso, mas o texto diz que já vem na diluição 1:30 do Power Pig; registrei como pronto uso, sem proporção."
+  }
+ ]
+}
