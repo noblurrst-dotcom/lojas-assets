@@ -227,3 +227,5 @@ a { transition: color .2s; }
   .sgcb-desc__hl span { font-size: .78rem;}
 }
 .page-info-product .board_htm .sgcb-desc { max-width: 880px; }
+.sgcb-desc__table td { background: #fff !important; }
+.sgcb-desc__table th { background: var(--sg-grey) !important; }
