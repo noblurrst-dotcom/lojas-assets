@@ -615,3 +615,6 @@ html:not(.ld) .header { border-top: 46px solid var(--ld-purple); }
   html.page--home:not(.ld-vant-ok) section.features { height: 124px !important; }
   html.page--home .featured-categories:not(.ld-grid) { height: 272px; overflow: hidden; }
 }
+
+/* Instagram desligado no tema (11/10/2026); esconde também nas páginas que ficaram em cache por até 4h */
+section.instagram { display: none !important; }
