@@ -618,3 +618,7 @@ html:not(.ld) .header { border-top: 46px solid var(--ld-purple); }
 
 /* Instagram desligado no tema (11/10/2026); esconde também nas páginas que ficaram em cache por até 4h */
 section.instagram { display: none !important; }
+/* item Calculadora no menu */
+.ld-menu-calc .main-menu__level-1__text { display: inline-flex; align-items: center; gap: 6px; }
+.ld-menu-calc svg { width: 16px; height: 16px; flex: none; }
+@media (min-width: 1024px) { .ld-menu-calc > a { color: #c9a6ff !important; } }

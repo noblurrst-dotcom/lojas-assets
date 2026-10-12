@@ -211,6 +211,14 @@
     $$('a[href$="/microfibras"], a[href$="/microfibras/"]').forEach(function (a) { a.href = CFG.microfibrasUrl; });
   }
 
+  /* ---------- item "Calculadora" no menu principal (computador e celular) ---------- */
+  function menuCalc() {
+    var ul = $('.main-menu__level-1'); if (!ul || $('.ld-menu-calc', ul)) return;
+    var li = d.createElement('li'); li.className = 'main-menu__level-1__item ld-menu-calc';
+    li.innerHTML = '<a class="main-menu__level-1__link" href="' + CFG.calculadoraUrl + '"><span class="main-menu__level-1__text">' + ICON.flask + 'Calculadora</span></a>';
+    ul.appendChild(li);
+  }
+
   /* ---------- vantagens: grade pr\u00f3pria (troca o carrossel do tema, que tinha texto de "importadores") ---------- */
   function vantagens() {
     var f = $('section.features'); if (!f || $('.ld-vant')) return;
@@ -370,7 +378,7 @@
 
   function init() {
     d.documentElement.classList.add('ld');
-    announce(); header(); linksQuebrados(); vantagens(); homeTop(); homeLayout(); campeoes(); lojaFisica(); footerMobile(); calculadora(); product(); productExtras(); cards(); badges(); reveal();
+    announce(); header(); linksQuebrados(); menuCalc(); vantagens(); homeTop(); homeLayout(); campeoes(); lojaFisica(); footerMobile(); calculadora(); product(); productExtras(); cards(); badges(); reveal();
     // se\u00e7\u00f5es da home que ficam s\u00f3 com o t\u00edtulo quando n\u00e3o h\u00e1 conte\u00fado (not\u00edcias, depoimentos)
     setTimeout(function () {
       $$('.latest-news, .customer-reviews').forEach(function (s) {
