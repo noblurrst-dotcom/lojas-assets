@@ -622,3 +622,14 @@ section.instagram { display: none !important; }
 .ld-menu-calc .main-menu__level-1__text { display: inline-flex; align-items: center; gap: 6px; }
 .ld-menu-calc svg { width: 16px; height: 16px; flex: none; }
 @media (min-width: 1024px) { .ld-menu-calc > a { color: #c9a6ff !important; } }
+/* ícones nos títulos do menu */
+.main-menu__level-1__text { display: inline-flex; align-items: center; gap: 6px; }
+.ld-micon { display: inline-flex; flex: none; }
+.ld-micon svg { width: 16px; height: 16px; }
+@media (max-width: 1023px) { .ld-micon svg, .ld-menu-calc svg { width: 20px; height: 20px; color: var(--ld-purple); } .main-menu__level-1__text { gap: 10px; } }
+/* ícones do menu: no computador só quando cabe tudo numa linha */
+@media (min-width: 1024px) {
+  .main-menu__level-1__text, .main-menu__level-1__text * { white-space: nowrap; }
+  .main-menu__level-1 > li > a { padding-left: 7px !important; padding-right: 7px !important; }
+}
+@media (min-width: 1024px) and (max-width: 1359px) { .ld-micon { display: none; } }

@@ -205,10 +205,34 @@
   var isHome = function () { return d.documentElement.classList.contains('page--home') || location.pathname === '/' ; };
   var isMobile = function () { return matchMedia('(max-width: 767px)').matches; };
 
-  /* ---------- links para /microfibras (categoria 39 oculta) vão para a busca enquanto ela não for exibida ---------- */
+  /* ---------- links para /microfibras (categoria 39 oculta) v\u00e3o para a busca enquanto ela n\u00e3o for exibida ---------- */
   function linksQuebrados() {
     if (CFG.microfibrasUrl === '/microfibras') return;
     $$('a[href$="/microfibras"], a[href$="/microfibras/"]').forEach(function (a) { a.href = CFG.microfibrasUrl; });
+  }
+
+  /* ---------- \u00edcones nos t\u00edtulos do menu principal (pela URL de cada categoria) ---------- */
+  var MENU_ICONS = {
+    marcas: '<path d="M3 12V4h8l10 10-8 8L3 12z"/><circle cx="7.5" cy="8.5" r="1.5"/>',
+    lavagem: '<path d="M12 3s6 6.5 6 11a6 6 0 0 1-12 0c0-4.5 6-11 6-11z"/><path d="M9.5 14.5a2.5 2.5 0 0 0 2.5 2.5"/>',
+    polimento: '<circle cx="12" cy="12" r="8.5"/><circle cx="12" cy="12" r="4"/><circle cx="12" cy="12" r="1" fill="currentColor"/>',
+    interior: '<path d="M8 3h5a2 2 0 0 1 2 2v7H8z"/><path d="M6 12h11l1 4H6z"/><path d="M8 16v5M16 16v5"/>',
+    microfibras: '<path d="M4 6h16v4H4z"/><path d="M5 10v8a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2v-8"/><path d="M9 14h6"/>',
+    equipamentos: '<path d="M14.5 6.5a4 4 0 0 0-5.3 5.3L4 17l3 3 5.2-5.2a4 4 0 0 0 5.3-5.3l-2.5 2.5-2.5-.5-.5-2.5z"/>',
+    kits: '<path d="M4 9h16v4H4z"/><path d="M5 13v7h14v-7"/><path d="M12 9v11"/><path d="M12 9c-2-4-6-4-6-1.5S9 9 12 9zM12 9c2-4 6-4 6-1.5S15 9 12 9z"/>',
+    eventos: '<path d="M2 9l10-5 10 5-10 5z"/><path d="M6 11v5c0 1.5 3 3 6 3s6-1.5 6-3v-5"/><path d="M22 9v6"/>'
+  };
+  function menuIcons() {
+    $$('.main-menu__level-1 > li > a.main-menu__level-1__link').forEach(function (a) {
+      if (a.dataset.ldIcon || a.closest('.ld-menu-calc')) return;
+      var slug = (a.getAttribute('href') || '').replace(/^https?:\/\/[^/]+/, '').split('/')[1] || '';
+      var paths = MENU_ICONS[slug]; if (!paths) return;
+      a.dataset.ldIcon = 1;
+      var t = $('.main-menu__level-1__text', a) || a;
+      var ic = d.createElement('span'); ic.className = 'ld-micon'; ic.setAttribute('aria-hidden', 'true');
+      ic.innerHTML = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">' + paths + '</svg>';
+      t.insertBefore(ic, t.firstChild);
+    });
   }
 
   /* ---------- item "Calculadora" no menu principal (computador e celular) ---------- */
@@ -378,7 +402,7 @@
 
   function init() {
     d.documentElement.classList.add('ld');
-    announce(); header(); linksQuebrados(); menuCalc(); vantagens(); homeTop(); homeLayout(); campeoes(); lojaFisica(); footerMobile(); calculadora(); product(); productExtras(); cards(); badges(); reveal();
+    announce(); header(); linksQuebrados(); menuCalc(); menuIcons(); vantagens(); homeTop(); homeLayout(); campeoes(); lojaFisica(); footerMobile(); calculadora(); product(); productExtras(); cards(); badges(); reveal();
     // se\u00e7\u00f5es da home que ficam s\u00f3 com o t\u00edtulo quando n\u00e3o h\u00e1 conte\u00fado (not\u00edcias, depoimentos)
     setTimeout(function () {
       $$('.latest-news, .customer-reviews').forEach(function (s) {
