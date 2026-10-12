@@ -250,3 +250,28 @@ a { transition: color .2s; }
 .banner-info .border-img svg { width: 24px; height: 24px; fill: none; stroke: #fff; stroke-width: 1.7; stroke-linecap: round; stroke-linejoin: round; }
 .banner-info .item .line { justify-content: flex-start !important; }
 @media (min-width: 1025px) { .banner-info .open_desk { justify-content: center !important; gap: 80px; } .banner-info .item { flex: 0 0 auto !important; width: auto !important; } }
+
+/* pagina do produto: beneficios, garantias, barra fixa (sgcb-loja.js) */
+.sg-benefits { list-style: none; margin: 10px 0 14px !important; padding: 0 !important; display: flex; flex-wrap: wrap; gap: 8px; }
+.sg-benefits li { display: inline-flex; align-items: center; gap: 6px; background: var(--sg-acc-l); color: var(--sg-ink); border-radius: 999px; padding: 6px 12px 6px 8px; font-size: .8rem; font-weight: 600; }
+.sg-benefits svg { width: 16px; height: 16px; fill: none; stroke: var(--sg-acc); stroke-width: 2.6; stroke-linecap: round; stroke-linejoin: round; flex: none; }
+.sg-trust { display: grid; gap: 10px; margin: 16px 0; padding: 16px; border: 1px solid var(--sg-line); border-radius: 14px; }
+.sg-trust > div { display: flex; align-items: center; gap: 12px; }
+.sg-trust svg { width: 22px; height: 22px; flex: none; fill: none; stroke: var(--sg-acc); stroke-width: 1.8; stroke-linecap: round; stroke-linejoin: round; }
+.sg-trust span { font-size: .82rem; color: var(--sg-muted); line-height: 1.35; }
+.sg-trust b { display: block; color: var(--sg-ink); font-size: .9rem; }
+.sg-trust a { color: var(--sg-acc) !important; font-weight: 600; }
+.sg-bar { display: none; }
+@media (max-width: 1024px) {
+  .sg-bar { display: flex; align-items: center; gap: 12px; position: fixed; left: 0; right: 0; bottom: 0; z-index: 99; background: var(--sg-ink); color: #fff;
+    padding: 10px 14px calc(10px + env(safe-area-inset-bottom)); box-shadow: 0 -8px 30px rgba(0, 0, 0, .25); transform: translateY(110%); transition: transform .35s cubic-bezier(.22, 1, .36, 1); }
+  .sg-bar-on .sg-bar { transform: none; }
+  .sg-bar img { width: 46px; height: 46px; border-radius: 10px; object-fit: cover; background: #fff; flex: none; }
+  .sg-bar__p { flex: 1; min-width: 0; line-height: 1.15; }
+  .sg-bar__p b { display: block; font-family: var(--sg-head); font-style: italic; font-weight: 800; font-size: 1.45rem; }
+  .sg-bar__p span { font-size: .72rem; color: rgba(255, 255, 255, .7); }
+  .sg-bar__b { background: var(--sg-acc); color: #fff; border: 0; border-radius: var(--sg-rs); height: 48px; padding: 0 22px; font-family: var(--sg-head); font-style: italic; font-weight: 800; text-transform: uppercase; font-size: 1.15rem; letter-spacing: .04em; }
+  .sg-bar-on .fixed-contact { bottom: 84px !important; transition: bottom .3s; }
+  .product-detail .product-name { font-size: 1.85rem !important; }
+  .sg-pix { margin-top: 2px; }
+}

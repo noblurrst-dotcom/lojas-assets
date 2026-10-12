@@ -122,6 +122,63 @@
     });
   }
 
-  function run() { nav(); footer(); a11y(); desc(); pix(); vantagens(); }
+  /* pagina do produto (modelo "pagina mobile perfeita"): beneficios logo abaixo do nome, garantias abaixo do botao,
+     barra fixa com preco e botao no celular. Sem prova social inventada: so entra avaliacao real da Tray. */
+  var WA = 'https://wa.me/5519995304482?text=';
+  function productPage() {
+    var form = $('#form_comprar'), name = $('.product-detail .product-name');
+    if (!form || !name) return;
+    var right = $('.product-colum-right .fixed-info') || form.parentNode;
+
+    // menos rolagem antes do preco: tira "Data de lancamento"
+    $$('.extra-information .info-product').forEach(function (i) { if (/lan\u00e7amento|lancamento/i.test(i.textContent)) i.style.display = 'none'; });
+
+    // 3 beneficios tirados dos destaques da descricao
+    var hl = $$('.sgcb-desc__hl li strong').slice(0, 3);
+    if (hl.length && !$('.sg-benefits')) {
+      var ul = document.createElement('ul'); ul.className = 'sg-benefits';
+      ul.innerHTML = hl.map(function (x) { return '<li><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 12.5l4.2 4.2L19 7"/></svg><span>' + x.textContent.trim() + '</span></li>'; }).join('');
+      var ref = $('.line-info', right);
+      (ref || name).parentNode.insertBefore(ul, (ref || name).nextSibling);
+    }
+
+    // garantias abaixo do botao de comprar
+    var nome = name.textContent.replace(/\s+/g, ' ').trim();
+    if (!$('.sg-trust')) {
+      var t = document.createElement('div'); t.className = 'sg-trust';
+      t.innerHTML =
+        '<div><svg viewBox="0 0 24 24"><path d="M3 7h11v9H3zM14 10h4l3 3v3h-7z"/><circle cx="7" cy="17.5" r="1.8"/><circle cx="17" cy="17.5" r="1.8"/></svg><span><b>Envio para todo o Brasil</b>Calcule o frete pelo CEP</span></div>' +
+        '<div><svg viewBox="0 0 24 24"><path d="M12 3l7 3v5c0 4.5-3 8.2-7 10-4-1.8-7-5.5-7-10V6z"/><path d="M9 12l2 2 4-4"/></svg><span><b>Compra segura</b>Pagamento protegido e produto original SGCB</span></div>' +
+        '<div><svg viewBox="0 0 24 24"><path d="M20 12a8 8 0 1 1-3.3-6.5L20 4v5h-5"/></svg><span><b>D\u00favida no uso?</b><a href="' + WA + encodeURIComponent('Ol\u00e1! Vim pela loja da SGCB e quero saber mais sobre o produto ' + nome + '.') + '" target="_blank" rel="noopener">Fale com um especialista</a></span></div>';
+      var fr = $('.box-frete', right);
+      right.insertBefore(t, fr ? fr.nextSibling : null);
+    }
+
+    // barra fixa no celular: preco a vista + botao, aparece quando o botao original sai da tela
+    var buy = $('#button-buy');
+    if (buy && !$('.sg-bar') && 'IntersectionObserver' in window) {
+      var img = $('.featured-swiper img, .gallery img');
+      var bar = document.createElement('div'); bar.className = 'sg-bar';
+      bar.innerHTML = (img ? '<img alt="" src="' + (img.getAttribute('src') || img.getAttribute('data-src') || '') + '">' : '') + '<div class="sg-bar__p"></div><button type="button" class="sg-bar__b">Comprar</button>';
+      document.body.appendChild(bar);
+      var upd = function () {
+        var pv = $('.sg-pix__v'), main = $('#variacaoPreco');
+        $('.sg-bar__p', bar).innerHTML = pv ? '<b>' + pv.firstChild.textContent + '</b><span>\u00e0 vista no Pix</span>' : (main ? '<b>R$ ' + main.textContent.trim() + '</b>' : '');
+      };
+      upd(); setTimeout(upd, 800);
+      new MutationObserver(function () { clearTimeout(upd.t); upd.t = setTimeout(upd, 150); }).observe($('#product-priceBox') || form, { subtree: true, childList: true, characterData: true });
+      $('.sg-bar__b', bar).addEventListener('click', function () {
+        var err = $('#span_erro_carrinho');
+        buy.click();
+        setTimeout(function () { if (err && err.offsetParent) buy.scrollIntoView({ behavior: 'smooth', block: 'center' }); }, 300);
+      });
+      new IntersectionObserver(function (es) {
+        var show = !es[0].isIntersecting && es[0].boundingClientRect.top < 0;
+        document.documentElement.classList.toggle('sg-bar-on', show);
+      }).observe(buy);
+    }
+  }
+
+  function run() { nav(); footer(); a11y(); desc(); pix(); vantagens(); productPage(); }
   if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', run); else run();
 })();
