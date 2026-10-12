@@ -399,9 +399,34 @@
     }).catch(function () { find.placeholder = 'Lista de produtos indispon\u00edvel agora: use a propor\u00e7\u00e3o'; });
   }
 
+  /* ---------- acessibilidade: corrige o que o tema da Tray deixa de fora ---------- */
+  function a11y() {
+    var nomes = { tracking__toggle: 'Rastrear pedido', 'user-account__toggle': 'Minha conta', 'main-menu__toggle': 'Abrir menu', 'cart-toggle': 'Carrinho' };
+    $$('button').forEach(function (b) {
+      if (b.getAttribute('aria-label')) return;
+      for (var c in nomes) if (b.classList.contains(c)) { b.setAttribute('aria-label', nomes[c]); return; }
+      if ((b.textContent || '').trim()) return;
+      var t = b.getAttribute('title'); if (t) b.setAttribute('aria-label', t);
+    });
+    $$('a[tabindex]').forEach(function (a) { if (+a.getAttribute('tabindex') > 0) a.setAttribute('tabindex', '0'); });
+    $$('.footer h4.visuallyhidden, .footer h5.payment-methods__type').forEach(function (h) { var n = d.createElement(h.tagName === 'H5' ? 'h3' : 'h2'); n.className = h.className; n.innerHTML = h.innerHTML; h.parentNode.replaceChild(n, h); });
+    slickA11y();
+    if (!a11y.mo && window.MutationObserver) {
+      // o slick recoloca role/aria-hidden a cada troca de slide
+      a11y.mo = new MutationObserver(function (ms) {
+        ms.forEach(function (m) { var e = m.target; if (e.classList && (e.classList.contains('slick-slide') || e.classList.contains('slick-track') || e.classList.contains('featured-category'))) { if (e.hasAttribute('aria-hidden')) e.removeAttribute('aria-hidden'); if (e.hasAttribute('role')) e.removeAttribute('role'); } });
+      });
+      a11y.mo.observe(d.body, { attributes: true, subtree: true, attributeFilter: ['aria-hidden', 'role'] });
+    }
+  }
+  function slickA11y() {
+    $$('.slick-track[role], .slick-slide[role], .featured-category[role]').forEach(function (e) { e.removeAttribute('role'); e.removeAttribute('aria-describedby'); });
+    $$('.slick-slide[aria-hidden]').forEach(function (e) { e.removeAttribute('aria-hidden'); });
+  }
+
   function init() {
     d.documentElement.classList.add('ld');
-    announce(); header(); linksQuebrados(); menuCalc(); menuIcons(); vantagens(); homeTop(); homeLayout(); campeoes(); lojaFisica(); footerMobile(); calculadora(); product(); productExtras(); cards(); badges(); reveal();
+    announce(); header(); linksQuebrados(); menuCalc(); menuIcons(); vantagens(); homeTop(); homeLayout(); campeoes(); lojaFisica(); footerMobile(); calculadora(); a11y(); product(); productExtras(); cards(); badges(); reveal();
     // se\u00e7\u00f5es da home que ficam s\u00f3 com o t\u00edtulo quando n\u00e3o h\u00e1 conte\u00fado (not\u00edcias, depoimentos)
     setTimeout(function () {
       $$('.latest-news, .customer-reviews').forEach(function (s) {
@@ -414,5 +439,5 @@
   }
   if (d.readyState === 'loading') d.addEventListener('DOMContentLoaded', init); else init();
   // o tema monta os carross\u00e9is (slick) no load: refaz o layout da home depois disso
-  addEventListener('load', function () { setTimeout(homeLayout, 300); });
+  addEventListener('load', function () { setTimeout(homeLayout, 300); setTimeout(a11y, 800); });
 })();

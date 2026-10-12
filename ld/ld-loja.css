@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:ital,wght@0,600;0,700;0,800;1,600;1,700;1,800&family=Inter:wght@400;500;600;700;800&display=swap');
+/* fontes: carregadas pelo <head> do tema (preconnect + link); o @import aqui duplicava e travava a pintura */
 /* Loja do Detalhamento · loja Tray (tema Mercurius)
    Identidade: preto + roxo do logo, títulos condensados em itálico (como o logo), corpo em Inter.
    Entra pelo campo CSS Personalizado (Configurações Avançadas do tema), que sobrevive à atualização do tema. Fonte: ld-loja/publico/ld-loja.css */
@@ -648,3 +648,6 @@ section.instagram { display: none !important; }
   .ld-micon svg { width: 22px; height: 22px; color: var(--ld-purple); }
 }
 @media (min-width: 1024px) and (max-width: 1199px) { .main-menu__level-1 > li > a.ld-has-icon { padding-left: 8px !important; padding-right: 8px !important; } }
+
+/* acessibilidade: contraste do rodape */
+.footer .payment-methods__type, .footer .payment-methods__block h5 { color: #d9d9e2 !important; font-family: var(--ld-body) !important; font-style: normal !important; text-transform: none !important; letter-spacing: 0 !important; font-size: .75rem !important; font-weight: 600 !important; line-height: 1.3 !important; }
