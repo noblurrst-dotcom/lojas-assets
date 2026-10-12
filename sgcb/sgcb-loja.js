@@ -78,6 +78,50 @@
     });
   }
 
-  function run() { nav(); footer(); a11y(); desc(); }
+  /* pagina do produto: preco a vista (Pix) em destaque, acompanha a troca de variacao */
+  function num(t) { return parseFloat(String(t).replace(/[^\d,]/g, '').replace(',', '.')) || 0; }
+  function brl(v) { return 'R$ ' + v.toFixed(2).replace('.', ',').replace(/\B(?=(\d{3})+(?!\d))/g, '.'); }
+  function pix() {
+    var box = $('#produto_preco');
+    if (!box) return;
+    var draw = function () {
+      var av = $('.preco-avista', box), main = $('#variacaoPreco', box);
+      var el = $('.sg-pix', box.parentNode);
+      if (!av || !main) { if (el) el.style.display = 'none'; return; }
+      var v = num(av.textContent), p = num(main.textContent);
+      if (!v || !p) return;
+      var forma = $('.txt-forma-pagamento', box), off = Math.round((1 - v / p) * 100);
+      var parc = $('.txt-cadaparcelas .preco-parc2', box), n = $('.preco-parc2 strong', box);
+      if (!el) { el = document.createElement('div'); el.className = 'sg-pix'; box.parentNode.insertBefore(el, box); }
+      el.style.display = '';
+      el.innerHTML = '<div class="sg-pix__v">' + brl(v) + '<small>\u00e0 vista' + (forma && /pix/i.test(forma.textContent) ? ' no Pix' : '') + '</small></div>' +
+        (off > 0 ? '<span class="sg-pix__off">' + off + '% OFF</span>' : '') +
+        '<div class="sg-pix__o">ou ' + brl(p) + (n && parc ? ' em at\u00e9 ' + n.textContent.replace(/\s/g, '') + ' de ' + parc.textContent.replace(/\s+/g, ' ').trim() : '') + '</div>';
+      document.documentElement.classList.add('sg-pix-on');
+    };
+    draw();
+    if (!box.getAttribute('data-sg')) {
+      box.setAttribute('data-sg', '1');
+      new MutationObserver(function () { clearTimeout(draw.t); draw.t = setTimeout(draw, 120); }).observe(box, { subtree: true, childList: true, characterData: true });
+    }
+  }
+
+  /* faixa de vantagens: icones do tema tinham tamanhos e tracos diferentes; troca por SVG no mesmo padrao */
+  var ICO = {
+    frete: '<path d="M3 7h11v9H3zM14 10h4l3 3v3h-7z"/><circle cx="7" cy="17.5" r="1.8"/><circle cx="17" cy="17.5" r="1.8"/>',
+    parcel: '<rect x="3" y="6" width="18" height="12" rx="2"/><path d="M3 10h18M7 15h4"/>',
+    seguro: '<path d="M12 3l7 3v5c0 4.5-3 8.2-7 10-4-1.8-7-5.5-7-10V6z"/><path d="M9 12l2 2 4-4"/>'
+  };
+  function vantagens() {
+    $$('.banner-info .item').forEach(function (it) {
+      var t = ($('.featured', it) || {}).textContent || '', k = /frete|entrega/i.test(t) ? 'frete' : /parcel/i.test(t) ? 'parcel' : /segur/i.test(t) ? 'seguro' : '';
+      var b = $('.border-img', it);
+      if (!k || !b || b.getAttribute('data-sg')) return;
+      b.setAttribute('data-sg', '1');
+      b.innerHTML = '<svg viewBox="0 0 24 24" aria-hidden="true">' + ICO[k] + '</svg>';
+    });
+  }
+
+  function run() { nav(); footer(); a11y(); desc(); pix(); vantagens(); }
   if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', run); else run();
 })();

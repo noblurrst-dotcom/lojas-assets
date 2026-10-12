@@ -15,7 +15,7 @@ html[data-store] {
   --header_search_icon: var(--sg-ink); --header_top_border: transparent; --border_top: var(--sg-acc); --border_top2: var(--sg-acc);
   --nav_bg: #11141c; --nav_color: #fff; --nav_color_border: var(--sg-acc); --bg_sub: #fff; --nav_color_sub: var(--sg-ink);
   --cart_number: #fff; --cart_number_bg: var(--sg-acc);
-  --bg_input: var(--sg-grey); --border_input: var(--sg-grey);
+  --bg_input: var(--sg-grey); --border_input: var(--sg-grey); --header_text_search_top: #fff;
   --color_footer: var(--sg-ink); --color_footer2: var(--sg-ink); --color_text_footer: rgba(255,255,255,.62);
   --color_footer_newsletter: var(--sg-acc); --color_border_footer: rgba(255,255,255,.1); --social_bg_hover: var(--sg-acc);
   --preco_color: var(--sg-ink); --preco_color_product: var(--sg-ink); --payment_color: var(--sg-muted); --payment_color_product: var(--sg-text);
@@ -229,3 +229,24 @@ a { transition: color .2s; }
 .page-info-product .board_htm .sgcb-desc { max-width: 880px; }
 .sgcb-desc__table td { background: #fff !important; }
 .sgcb-desc__table th { background: var(--sg-grey) !important; }
+
+/* busca do topo: texto e placeholder claros no fundo escuro */
+.header .search-header .input-search, .nav-mobile .search-header .input-search { color: #fff !important; -webkit-text-fill-color: #fff; caret-color: #fff; }
+.header .search-header .input-search::placeholder, .nav-mobile .search-header .input-search::placeholder { color: rgba(255, 255, 255, .6) !important; -webkit-text-fill-color: rgba(255, 255, 255, .6); text-transform: none !important; }
+
+/* preco a vista em destaque (montado pelo sgcb-loja.js) */
+.sg-pix { position: relative; background: var(--sg-ink); color: #fff; border-radius: 16px; padding: 18px 20px 16px; margin: 6px 0 14px; overflow: hidden; }
+.sg-pix::after { content: ""; position: absolute; right: -40px; top: -40px; width: 140px; height: 140px; border-radius: 50%; background: radial-gradient(circle, rgba(31, 79, 255, .55), transparent 70%); }
+.sg-pix__v { font-family: var(--sg-head); font-style: italic; font-weight: 800; font-size: clamp(2.3rem, 4vw, 2.9rem); line-height: 1; letter-spacing: .005em; display: flex; align-items: baseline; flex-wrap: wrap; gap: 10px; }
+.sg-pix__v small { font-family: var(--sg-font); font-style: normal; font-weight: 600; font-size: .9rem; color: rgba(255, 255, 255, .75); letter-spacing: 0; }
+.sg-pix__off { position: absolute; right: 16px; top: 16px; z-index: 1; background: var(--sg-acc); color: #fff; font-family: var(--sg-head); font-style: italic; font-weight: 800; font-size: 1rem; padding: 4px 10px; border-radius: 6px; }
+.sg-pix__o { margin-top: 8px; font-size: .88rem; color: rgba(255, 255, 255, .7); position: relative; z-index: 1; }
+.sg-pix-on #produto_preco .txt-por, .sg-pix-on #produto_preco .PrecoPrincipal, .sg-pix-on #produto_preco #info_preco { display: none !important; }
+.sg-pix-on #produto_preco > br { display: none; }
+
+/* faixa de vantagens com icones SVG (sgcb-loja.js) */
+.banner-info .border-img { width: 48px !important; height: 48px !important; min-width: 48px; border-radius: 12px !important; background: var(--sg-ink) !important; display: grid !important; place-items: center; padding: 0 !important; }
+.banner-info .border-img::before, .banner-info .border-img::after { display: none !important; }
+.banner-info .border-img svg { width: 24px; height: 24px; fill: none; stroke: #fff; stroke-width: 1.7; stroke-linecap: round; stroke-linejoin: round; }
+.banner-info .item .line { justify-content: flex-start !important; }
+@media (min-width: 1025px) { .banner-info .open_desk { justify-content: center !important; gap: 80px; } .banner-info .item { flex: 0 0 auto !important; width: auto !important; } }
