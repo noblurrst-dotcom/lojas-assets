@@ -34,7 +34,7 @@
       li.innerHTML = '<a href="' + href + '"><span class="text">' + txt + '</span></a>'; return li;
     });
     if (list && !$('.sg-nav-site', list)) {
-      [['Sobre a SGCB', '/', 'nav-sobre'], ['Quer revender?', '/revenda.html', 'nav-revenda']].forEach(function (x) {
+      [['Sobre a SGCB', '/', 'nav-sobre'], ['Quer revender?', '/revenda', 'nav-revenda']].forEach(function (x) {
         var li = document.createElement('li'); li.className = 'sg-nav-site';
         li.innerHTML = '<a href="' + link(x[1], x[2]) + '"><div class="name">' + x[0] + '</div></a>';
         list.appendChild(li);
