@@ -275,3 +275,6 @@ a { transition: color .2s; }
   .product-detail .product-name { font-size: 1.85rem !important; }
   .sg-pix { margin-top: 2px; }
 }
+
+/* cartoes: foto preenche o quadro (antes ficava no tamanho da miniatura de 180 px) */
+.product .image img, .product .space-image img { object-fit: contain !important; width: 100% !important; height: 100% !important; }

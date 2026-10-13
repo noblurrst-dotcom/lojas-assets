@@ -179,6 +179,25 @@
     }
   }
 
-  function run() { nav(); footer(); a11y(); desc(); pix(); vantagens(); productPage(); }
+  /* cartoes de produto: a Tray so gera miniatura de 180 px (ou a foto inteira, 2000 px) e o tema usa
+     object-fit scale-down, entao o produto ficava pequeno no cartao. Quando o cartao entra na tela,
+     troca a miniatura pela foto inteira (as fotos da loja sao 2000x2000). */
+  function hdCards() {
+    var imgs = $$('.product .image img, .product-low img, .col-product img');
+    if (!imgs.length) return;
+    var up = function (i) {
+      ['src', 'data-src'].forEach(function (a) {
+        var v = i.getAttribute(a);
+        if (v && /\/(30|90|180)_[^/]+$/.test(v)) i.setAttribute(a, v.replace(/\/(30|90|180)_([^/]+)$/, '/$2'));
+      });
+    };
+    if (!('IntersectionObserver' in window)) { imgs.forEach(up); return; }
+    var io = new IntersectionObserver(function (es) {
+      es.forEach(function (e) { if (e.isIntersecting) { up(e.target); io.unobserve(e.target); } });
+    }, { rootMargin: '300px 0px' });
+    imgs.forEach(function (i) { io.observe(i); });
+  }
+
+  function run() { nav(); footer(); a11y(); desc(); pix(); vantagens(); productPage(); hdCards(); }
   if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', run); else run();
 })();
