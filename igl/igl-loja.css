@@ -44,6 +44,9 @@ body { color: #444; -webkit-font-smoothing: antialiased; }
 .igl-tools .account { cursor: pointer; }
 .igl-tools .account:hover div[data-logged-user]:not(.tray-hide) { display: block; position: absolute; top: 60px; right: 60px; background: #fff; padding: 14px 18px; border-radius: 12px; box-shadow: 0 14px 40px rgba(0, 0, 0, .14); }
 .igl-tools .account:hover .login-links { display: flex; gap: 6px; }
+/* ponte invisível entre o ícone e a caixa: sem ela o mouse saía do :hover no caminho e a caixa fechava antes do clique */
+.igl-tools .account:hover div[data-logged-user]:not(.tray-hide)::before { content: ""; position: absolute; left: -30px; right: 0; top: -40px; height: 40px; }
+.igl-tools .account .login-links a { padding: 4px 2px; }
 .igl-tools .icon, .igl-search-toggle .icon { font-size: 1.35rem; color: var(--igl-ink); }
 .igl-search-toggle { background: none; border: 0; cursor: pointer; padding: 6px; }
 .igl-header .cart-toggle .cart-quantity, .header-mobile .cart-toggle .cart-quantity { background: var(--igl-green); color: #fff; }

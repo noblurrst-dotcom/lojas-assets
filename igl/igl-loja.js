@@ -18,6 +18,14 @@
     loop();
   }
 
+  /* conta: clicar no ícone leva pro login (ou pra central, se já entrou); a caixa do hover continua */
+  $$('.igl-tools .account-icon').forEach(function (ic) {
+    ic.addEventListener('click', function () {
+      var logado = $('.igl-tools .account [data-logged-user="true"]:not(.tray-hide)');
+      location.href = logado ? '/central-do-cliente' : '/my-account/login';
+    });
+  });
+
   /* busca pelo ícone */
   var head = $('.igl-header'), tg = $('[data-igl-search]');
   if (head && tg) {
